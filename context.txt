@@ -327,7 +327,7 @@ In CyberPatriot XIII, only three rounds were held, with Round 1 delayed due to C
 
 The Challenges that teams may face include:
 
-Network Security Challenge, in which teams fix vulnerabilities in "images" of Operating Systems that have been purposely tampered with while protecting the virtual machines(VMs) from "Red Team" which is a group of "hackers" that will exploit vulnerabilities on the competitor's machines. The Operating Systems in CP-XVII include: Windows 10, Windows 11, Windows Server 2019, Windows Server 2022, Ubuntu 22, and Mint 21.
+Network Security Challenge, in which teams fix vulnerabilities in "images" of Operating Systems that have been purposely tampered with, During Nationals, competitors also must protect the virtual machines(VMs) from "Red Team" which is a group of "hackers" that will exploit vulnerabilities on the competitor's machines. The Operating Systems in CP-XVII include: Windows 10, Windows 11, Windows Server 2019, Windows Server 2022, Ubuntu 22, and Mint 21.
 Cisco Networking Challenge, in which teams show their knowledge about Cisco Packet Tracer, and take a Cisco quiz.
 CyberPatriot Web-Based Challenge, in which competitors compete in a CTF-like challenge. This challenge is currently only in the Semifinals Round.
 Boeing Cyber-Physical System Challenge, in which teams are presented with an operational system that tracks and maintains flight information. This challenge is currently only in the Semifinals Round.[18][19][20]
