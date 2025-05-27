@@ -102,6 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 body: JSON.stringify({
                     model: MODEL_NAME,
                     messages: messagesPayload,
+                    transforms: ["middle-out"]
                 }),
             });
 
