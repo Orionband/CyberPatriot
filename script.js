@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         displayMessage('ai', 'Thinking...');
 
-        const systemPrompt = `You are an AI assistant specializing in CyberPatriot. Your knowledge is based on the following context. Answer questions related to CyberPatriot using only this information.Maintain a helpful and informative tone. Please be as consise as possible and give short responces(at most 12 sentences unless stated otherwise. usually 4-8 sentences). If it is in the rule book, quote it and then answer the question. If their question is a yes or no question, be sure to answer yes or no. Here is the CyberPatriot context:\n\n${cyberPatriotContext}`;
+        const systemPrompt = `You are an AI assistant specializing in CyberPatriot. Your knowledge is based on the following context. Answer questions related to CyberPatriot using only this information. Maintain a helpful and informative tone. Please be as consise as possible and give short responces(at most 12 sentences unless stated otherwise. usually 4-8 sentences). If their question is a yes or no question, be sure to answer yes or no. Here is the CyberPatriot context:\n\n${cyberPatriotContext}`;
 
         // --- MODIFIED: Limit conversation history to send ---
         const recentHistory = conversationHistory.slice(-MAX_HISTORY_MESSAGES_TO_SEND);
