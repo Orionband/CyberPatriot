@@ -188,18 +188,25 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- CORRECTED Event listeners ---
+       // --- DEBUGGING Event listeners ---
     sendButton.addEventListener('click', () => {
-        if (!isLoadingContext && userInput.value.trim() !== "") { // Check if not loading and input has text
+        console.log('Send button CLICKED. isLoadingContext:', isLoadingContext, 'Input Value:', `"${userInput.value.trim()}"`);
+        if (!isLoadingContext && userInput.value.trim() !== "") {
             sendMessageToAI(userInput.value);
+        } else {
+            console.log('Send button click: Conditions not met to send message.');
         }
     });
 
     userInput.addEventListener('keypress', (event) => {
+        console.log('User input KEYPRESS. Key:', event.key, 'isLoadingContext:', isLoadingContext, 'Input Value:', `"${userInput.value.trim()}"`);
         if (event.key === 'Enter') {
-            if (!isLoadingContext && userInput.value.trim() !== "") { // Check if not loading and input has text
+            console.log('Enter key PRESSED.');
+            event.preventDefault(); // Prevent default Enter behavior
+            if (!isLoadingContext && userInput.value.trim() !== "") {
                 sendMessageToAI(userInput.value);
-                event.preventDefault(); // Prevent default Enter behavior (e.g., form submission if it were in a form)
+            } else {
+                console.log('Enter key press: Conditions not met to send message.');
             }
         }
     });
