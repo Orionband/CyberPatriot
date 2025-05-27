@@ -1,8 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Ensure this is the key that WORKS in your Chrome extension
     const OPENROUTER_API_KEY = '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';
-    // Ensure this model matches the one that WORKS in your Chrome extension
-    const MODEL_NAME = 'model:meta-llama/llama-3.3-8b-instruct:free'; // Or 'meta-llama/llama-3.3-8b-instruct:free' if that's what you changed it to
+    // IMPORTANT: OpenRouter usually expects model names WITHOUT the "model:" prefix.
+    // Try 'meta-llama/llama-3.1-8b-instruct:free' or the specific one that worked for you.
+    // If 'model:meta-llama/llama-3.1-8b-instruct:free' IS what works for you, keep it, but it's unusual.
+    const MODEL_NAME = 'meta-llama/llama-3.1-8b-instruct:free'; // Or 'meta-llama/llama-3.1-8b-instruct:free' if that's what you changed it to
     const CONTEXT_FILE_PATH = 'context.txt';
     const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
@@ -14,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let cyberPatriotContext = "";
     let conversationHistory = [];
     let isLoadingContext = true;
+
+    const MAX_HISTORY_MESSAGES_TO_SEND = 10; // Keep last 5 user/assistant turns (10 messages)
 
     function displayMessage(sender, message, isError = false) {
         const messageElement = document.createElement('div');
@@ -40,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else {
                 displayMessage('ai', "Hello! I'm your CyberPatriot AI assistant. Context loaded. How can I help you today?");
             }
-            conversationHistory = [];
+            conversationHistory = []; // Reset history on context load
             console.log("CyberPatriot context loaded successfully.");
         } catch (error) {
             console.error("Error loading context:", error);
@@ -69,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         conversationHistory.push({ role: 'user', content: userMessageText });
 
         userInput.value = '';
-        sendButton.disabled = true;
+        sendButton.disabled = true; // Disable while processing
 
         const oldThinkingMessage = Array.from(chatBox.querySelectorAll('.ai-message p'))
             .find(p => p.textContent === 'Thinking...');
@@ -80,29 +84,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const systemPrompt = `You are an AI assistant specializing in CyberPatriot. Your knowledge is based on the following context. Answer questions related to CyberPatriot using only this information. If a question is outside this context, clearly state that you don't have information on it. Maintain a helpful and informative tone. Here is the CyberPatriot context:\n\n${cyberPatriotContext}`;
 
+        // --- MODIFIED: Limit conversation history ---
+        const recentHistory = conversationHistory.slice(-MAX_HISTORY_MESSAGES_TO_SEND);
+
         const messagesPayload = [
             { role: 'system', content: systemPrompt },
-            ...conversationHistory
+            ...recentHistory // Use the sliced history
         ];
 
         console.log("GitHub Page: Sending to AI with key:", OPENROUTER_API_KEY.substring(0, 15) + "...");
         console.log("GitHub Page: Model:", MODEL_NAME);
-        console.log("GitHub Page: Payload:", JSON.stringify(messagesPayload, null, 2).substring(0, 500) + "...");
+        let approximateTokenCount = (systemPrompt.length / 4); // Very rough estimate (chars to tokens)
+        recentHistory.forEach(msg => approximateTokenCount += (msg.content.length / 4));
+        console.log(`GitHub Page: Estimated prompt tokens (very rough): ${Math.round(approximateTokenCount)} (System: ${Math.round(systemPrompt.length/4)}, History: ${Math.round(recentHistory.reduce((acc, curr) => acc + curr.content.length, 0)/4)})`);
+        // console.log("GitHub Page: Payload (first 500 chars):", JSON.stringify(messagesPayload, null, 2).substring(0, 500) + "...");
 
 
         try {
             const response = await fetch(OPENROUTER_API_URL, {
                 method: 'POST',
-                // mode: 'cors', // fetch defaults to 'cors' for cross-origin, but explicitly setting it doesn't hurt
                 headers: {
                     'Authorization': `Bearer ${OPENROUTER_API_KEY}`,
                     'Content-Type': 'application/json',
-                    'X-Title': 'CyberPatriot AI Chat (GitHub Page)' // Added X-Title
+                    'X-Title': 'CyberPatriot AI Chat (GitHub Page)'
                 },
                 body: JSON.stringify({
                     model: MODEL_NAME,
                     messages: messagesPayload,
-                    transforms: ["middle-out"]
+                    transforms: ["middle-out"] // Keep this for auto-compression if needed
                 }),
             });
 
@@ -119,35 +128,40 @@ document.addEventListener('DOMContentLoaded', () => {
                     try {
                         errorData = await response.json();
                     } catch (e) {
-                        errorData = { detail: await response.text() || "Unknown API error structure (non-JSON response)" };
+                        // Ensure errorData.error.message exists for consistent handling
+                        errorData = { error: { message: await response.text() || "Unknown API error structure (non-JSON parsing failed)" } };
                     }
                 } else {
-                     errorData = { detail: await response.text() || "Unknown API error structure (non-JSON response)" };
+                     errorData = { error: { message: await response.text() || "Unknown API error structure (non-JSON response)" } };
                 }
-
 
                 console.error("GitHub Page: API Error Response:", { status: response.status, statusText: response.statusText, data: errorData, headers: Object.fromEntries(response.headers.entries()) });
 
                 let errorMessage = `API Error: ${response.status} ${response.statusText}.`;
-                // Check for Clerk-specific headers in the actual failing response
                 const clerkAuthMessage = response.headers.get('x-clerk-auth-message');
                 if (clerkAuthMessage) {
                     errorMessage += ` Server Auth Detail: ${clerkAuthMessage}.`;
-                } else if (errorData && errorData.error && errorData.error.message) {
+                }
+
+                if (errorData && errorData.error && errorData.error.message) {
                     errorMessage += ` Details: ${errorData.error.message}`;
-                } else if (typeof errorData.detail === 'string') {
+                } else if (errorData && typeof errorData.detail === 'string') {
                     errorMessage += ` Details: ${errorData.detail}`;
-                } else if (errorData.message) {
-                    errorMessage += ` Details: ${errorData.message}`;
+                } else if (errorData && errorData.message && typeof errorData.message === 'string') { // Check if errorData.message is the string
+                     errorMessage += ` Details: ${errorData.message}`;
                 } else {
                     errorMessage += ` No further details provided by API. Check browser console.`;
                 }
 
+
                 if (response.status === 401) {
                     errorMessage += " (Authentication failed. If Clerk error persists, this might be an origin-based issue on the server.)";
+                } else if (response.status === 400 && errorData.error && errorData.error.message && errorData.error.message.includes("context length")) {
+                    errorMessage += " Context length issue. Even with history truncation and middle-out transform, the initial context might be too large. Consider shortening context.txt or using a model with a larger context window.";
                 }
 
                 displayMessage('ai', errorMessage, true);
+                // Do NOT push this API error message to conversationHistory
                 return;
             }
 
@@ -159,8 +173,8 @@ document.addEventListener('DOMContentLoaded', () => {
             displayMessage('ai', aiResponse);
             conversationHistory.push({ role: 'assistant', content: aiResponse });
 
-        } catch (error) {
-            console.error("GitHub Page: Error sending message to AI (Fetch/Network):", error);
+        } catch (error) { // This catches network errors or errors in fetch/JSON parsing
+            console.error("GitHub Page: Error sending message to AI (Fetch/Network/JS):", error);
             const thinkingMessage = Array.from(chatBox.querySelectorAll('.ai-message p'))
                 .find(p => p.textContent === 'Thinking...');
             if (thinkingMessage && thinkingMessage.parentElement) {
@@ -168,16 +182,38 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             displayMessage('ai', `Network or application error: ${error.message}. Please check your internet connection and the browser console for more details.`, true);
         } finally {
+            // Re-enable send button only if context is loaded (not during initial load)
             sendButton.disabled = isLoadingContext;
+            // User input should always be re-enabled if context is loaded, or after an attempt
+            if (!isLoadingContext) {
+                userInput.disabled = false;
+                userInput.focus(); // Focus back on input
+            }
         }
     }
 
-    // Event listeners and initial setup (same as before)
-    sendButton.addEventListener('click', () => { /* ... */ });
-    userInput.addEventListener('keypress', (event) => { /* ... */ });
+    // --- CORRECTED EVENT LISTENERS ---
+    sendButton.addEventListener('click', () => {
+        if (!isLoadingContext) { // Only send if context is loaded
+            sendMessageToAI(userInput.value);
+        }
+    });
+
+    userInput.addEventListener('keypress', (event) => {
+        if (event.key === 'Enter' && !isLoadingContext) { // Only send if context is loaded
+            sendMessageToAI(userInput.value);
+        }
+    });
+    // --- END OF CORRECTIONS ---
+
+    // Initial setup
     sendButton.disabled = true;
     userInput.disabled = true;
     userInput.placeholder = "Loading context...";
-    if (initialAiMessageElement) { initialAiMessageElement.textContent = "Loading context..."; }
+    if (initialAiMessageElement) {
+        initialAiMessageElement.textContent = "Loading context...";
+    } else {
+        console.warn("Initial AI message element not found. Will display first message dynamically.");
+    }
     loadContext();
 });
