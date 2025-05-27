@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Ensure this is the key that WORKS in your Chrome extension
     const OPENROUTER_API_KEY = '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';
-    // IMPORTANT: OpenRouter usually expects model names WITHOUT the "model:" prefix.
-    // Try 'meta-llama/llama-3.1-8b-instruct:free' or the specific one that worked for you.
-    // If 'model:meta-llama/llama-3.1-8b-instruct:free' IS what works for you, keep it, but it's unusual.
-    const MODEL_NAME = 'meta-llama/llama-3.1-8b-instruct:free'; // Or 'meta-llama/llama-3.1-8b-instruct:free' if that's what you changed it to
+    // Ensure this model matches the one that WORKS in your Chrome extension.
+    // OpenRouter usually expects identifiers like 'meta-llama/llama-3.1-8b-instruct:free' without the "model:" prefix.
+    // If you still have issues, try removing "model:"
+    const MODEL_NAME = 'meta-llama/llama-3.1-8b-instruct:free'; // Example: Using a known free model. Adjust if needed.
     const CONTEXT_FILE_PATH = 'context.txt';
     const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
@@ -17,7 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let conversationHistory = [];
     let isLoadingContext = true;
 
-    const MAX_HISTORY_MESSAGES_TO_SEND = 10; // Keep last 5 user/assistant turns (10 messages)
+    // --- NEW: Define max history messages to send (to prevent token limits) ---
+    const MAX_HISTORY_MESSAGES_TO_SEND = 6; // Keep last 3 user/assistant turns (6 messages). Adjust as needed.
 
     function displayMessage(sender, message, isError = false) {
         const messageElement = document.createElement('div');
@@ -75,6 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         userInput.value = '';
         sendButton.disabled = true; // Disable while processing
 
+        // Remove previous "Thinking..." message if any
         const oldThinkingMessage = Array.from(chatBox.querySelectorAll('.ai-message p'))
             .find(p => p.textContent === 'Thinking...');
         if (oldThinkingMessage && oldThinkingMessage.parentElement) {
@@ -84,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const systemPrompt = `You are an AI assistant specializing in CyberPatriot. Your knowledge is based on the following context. Answer questions related to CyberPatriot using only this information. If a question is outside this context, clearly state that you don't have information on it. Maintain a helpful and informative tone. Here is the CyberPatriot context:\n\n${cyberPatriotContext}`;
 
-        // --- MODIFIED: Limit conversation history ---
+        // --- MODIFIED: Limit conversation history to send ---
         const recentHistory = conversationHistory.slice(-MAX_HISTORY_MESSAGES_TO_SEND);
 
         const messagesPayload = [
@@ -94,10 +96,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         console.log("GitHub Page: Sending to AI with key:", OPENROUTER_API_KEY.substring(0, 15) + "...");
         console.log("GitHub Page: Model:", MODEL_NAME);
-        let approximateTokenCount = (systemPrompt.length / 4); // Very rough estimate (chars to tokens)
+        let approximateTokenCount = (systemPrompt.length / 4); // Very rough estimate
         recentHistory.forEach(msg => approximateTokenCount += (msg.content.length / 4));
-        console.log(`GitHub Page: Estimated prompt tokens (very rough): ${Math.round(approximateTokenCount)} (System: ${Math.round(systemPrompt.length/4)}, History: ${Math.round(recentHistory.reduce((acc, curr) => acc + curr.content.length, 0)/4)})`);
-        // console.log("GitHub Page: Payload (first 500 chars):", JSON.stringify(messagesPayload, null, 2).substring(0, 500) + "...");
+        console.log(`GitHub Page: Estimated prompt tokens (very rough): ${Math.round(approximateTokenCount)} (System: ${Math.round(systemPrompt.length/4)}, History: ${Math.round(recentHistory.reduce((sum, msg) => sum + msg.content.length / 4, 0))})`);
 
 
         try {
@@ -111,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 body: JSON.stringify({
                     model: MODEL_NAME,
                     messages: messagesPayload,
-                    transforms: ["middle-out"] // Keep this for auto-compression if needed
+                    transforms: ["middle-out"] // Keep this for OpenRouter's automatic prompt compression
                 }),
             });
 
@@ -128,11 +129,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     try {
                         errorData = await response.json();
                     } catch (e) {
-                        // Ensure errorData.error.message exists for consistent handling
-                        errorData = { error: { message: await response.text() || "Unknown API error structure (non-JSON parsing failed)" } };
+                        // If parsing JSON fails, use the raw text
+                        errorData = { error: { message: await response.text() || "Unknown API error (non-JSON response, parsing failed)" } };
                     }
                 } else {
-                     errorData = { error: { message: await response.text() || "Unknown API error structure (non-JSON response)" } };
+                     errorData = { error: { message: await response.text() || "Unknown API error (non-JSON response)" } };
                 }
 
                 console.error("GitHub Page: API Error Response:", { status: response.status, statusText: response.statusText, data: errorData, headers: Object.fromEntries(response.headers.entries()) });
@@ -145,24 +146,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 if (errorData && errorData.error && errorData.error.message) {
                     errorMessage += ` Details: ${errorData.error.message}`;
-                } else if (errorData && typeof errorData.detail === 'string') {
+                } else if (errorData && typeof errorData.detail === 'string') { // Some APIs use 'detail'
                     errorMessage += ` Details: ${errorData.detail}`;
-                } else if (errorData && errorData.message && typeof errorData.message === 'string') { // Check if errorData.message is the string
+                } else if (errorData && errorData.message) { // Some APIs use 'message' directly
                      errorMessage += ` Details: ${errorData.message}`;
                 } else {
                     errorMessage += ` No further details provided by API. Check browser console.`;
                 }
 
-
                 if (response.status === 401) {
-                    errorMessage += " (Authentication failed. If Clerk error persists, this might be an origin-based issue on the server.)";
+                    errorMessage += " (Authentication failed. Check API Key and model access. If Clerk error persists, this might be an origin-based issue on the server.)";
                 } else if (response.status === 400 && errorData.error && errorData.error.message && errorData.error.message.includes("context length")) {
-                    errorMessage += " Context length issue. Even with history truncation and middle-out transform, the initial context might be too large. Consider shortening context.txt or using a model with a larger context window.";
+                    errorMessage += " Even with history truncation and middle-out transform, the context might be too large for this model. Consider shortening context.txt or using a model with a larger context window.";
                 }
-
                 displayMessage('ai', errorMessage, true);
-                // Do NOT push this API error message to conversationHistory
-                return;
+                return; // Don't push API error response to history or re-enable button yet, handled in finally
             }
 
             const data = await response.json();
@@ -173,8 +171,8 @@ document.addEventListener('DOMContentLoaded', () => {
             displayMessage('ai', aiResponse);
             conversationHistory.push({ role: 'assistant', content: aiResponse });
 
-        } catch (error) { // This catches network errors or errors in fetch/JSON parsing
-            console.error("GitHub Page: Error sending message to AI (Fetch/Network/JS):", error);
+        } catch (error) { // Catches network errors or issues with fetch itself
+            console.error("GitHub Page: Error sending message to AI (Fetch/Network):", error);
             const thinkingMessage = Array.from(chatBox.querySelectorAll('.ai-message p'))
                 .find(p => p.textContent === 'Thinking...');
             if (thinkingMessage && thinkingMessage.parentElement) {
@@ -182,29 +180,29 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             displayMessage('ai', `Network or application error: ${error.message}. Please check your internet connection and the browser console for more details.`, true);
         } finally {
-            // Re-enable send button only if context is loaded (not during initial load)
+            // Re-enable the send button ONLY if context is loaded.
+            // If context is still loading (shouldn't happen if we reach here, but good check), keep it disabled.
             sendButton.disabled = isLoadingContext;
-            // User input should always be re-enabled if context is loaded, or after an attempt
-            if (!isLoadingContext) {
-                userInput.disabled = false;
-                userInput.focus(); // Focus back on input
-            }
+            // The user input field can always be re-enabled if not loading context
+            userInput.disabled = isLoadingContext;
         }
     }
 
-    // --- CORRECTED EVENT LISTENERS ---
+    // --- CORRECTED Event listeners ---
     sendButton.addEventListener('click', () => {
-        if (!isLoadingContext) { // Only send if context is loaded
+        if (!isLoadingContext && userInput.value.trim() !== "") { // Check if not loading and input has text
             sendMessageToAI(userInput.value);
         }
     });
 
     userInput.addEventListener('keypress', (event) => {
-        if (event.key === 'Enter' && !isLoadingContext) { // Only send if context is loaded
-            sendMessageToAI(userInput.value);
+        if (event.key === 'Enter') {
+            if (!isLoadingContext && userInput.value.trim() !== "") { // Check if not loading and input has text
+                sendMessageToAI(userInput.value);
+                event.preventDefault(); // Prevent default Enter behavior (e.g., form submission if it were in a form)
+            }
         }
     });
-    // --- END OF CORRECTIONS ---
 
     // Initial setup
     sendButton.disabled = true;
@@ -212,8 +210,6 @@ document.addEventListener('DOMContentLoaded', () => {
     userInput.placeholder = "Loading context...";
     if (initialAiMessageElement) {
         initialAiMessageElement.textContent = "Loading context...";
-    } else {
-        console.warn("Initial AI message element not found. Will display first message dynamically.");
     }
     loadContext();
 });
