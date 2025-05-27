@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     // IMPORTANT: Ensure this key is EXACTLY as provided and has no leading/trailing spaces.
     // This key is publicly visible in client-side code.
-    const OPENROUTER_API_KEY = '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';
-    const MODEL_NAME = 'meta-llama/llama-3.3-8b-instruct:free';
+   const OPENROUTER_API_KEY = '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';
+    const MODEL_NAME = 'qwen/qwen3-8b:free';
     const CONTEXT_FILE_PATH = 'context.txt'; // Assumes context.txt is in the same directory as index.html
     const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
