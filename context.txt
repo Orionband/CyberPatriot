@@ -532,7 +532,7 @@ March 20 - 24, 2026​
 National Finalist teams compete for the National Championship in their respective divisions.
 End of CyberPatriot 18 Schedule -----------------------------------------------------------------------------
 
-Start of CyberPatriot FAQ ---------------------------------------------------------------------------------
+Start of CyberPatriot FAQ from CyberPatriot Website---------------------------------------------------------------------------------
 Competition Round FAQ
 ​Coach Responsibilities
 Do I have to be present during the round? Can my mentor fill in for me?
@@ -646,7 +646,7 @@ For technical questions outside of competition round weekends, contact cpoc@uscy
 
 Registration / Administrative Questions 
 Our administrative staff can help answer questions related to team registration, volunteer account lockout, and the coach dashboard. Direct these questions to info@uscyberpatriot.org or call (877) 885-5716.
-End of FAQ----------------------------------------------------------------
+End of FAQ from CyberPatriot Website----------------------------------------------------------------
 Please note that 2025-26, this year, is CyberPatriot 18. The rule book is from CyberPatriot 17(XVII).
 CyberPatriot has received many questions concerning the use of ChatGPT and other AI platforms
 in the competition. There are no new rules limiting their use. However, the Rules Book applies to
