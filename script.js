@@ -6,14 +6,14 @@ document.addEventListener('DOMContentLoaded', () => {
      * @constant {string} OPENROUTER_API_KEY
      * The API key for accessing the OpenRouter service.
      */
-    const OPENROUTER_API_KEY = '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'; 
+    const OPENROUTER_API_KEY = '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'; 
 
     /**
      * @constant {string} MODEL_NAME
      * The identifier for the specific language model to be used via OpenRouter.
      * 'meta-llama/llama-3.1-8b-instruct:free' specifies a free tier Llama 3.1 model.
      */
-    const MODEL_NAME = 'meta-llama/llama-3.1-8b-instruct:free';
+    const MODEL_NAME = 'mistralai/mistral-7b-instruct:free';
 
     /**
      * @constant {string} CONTEXT_FILE_PATH
