@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
      * @constant {string} OPENROUTER_API_KEY
      * The API key for accessing the OpenRouter service.
      */
-    const OPENROUTER_API_KEY = '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'; // Replace with your actual key if needed for testing
+    const OPENROUTER_API_KEY = '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'; 
 
     /**
      * @constant {string} MODEL_NAME
