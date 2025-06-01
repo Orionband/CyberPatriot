@@ -124,30 +124,125 @@ C. Interactions with other teams: During competition periods, no communication b
 Non-competing teams/members/Coaches/Mentors CANNOT observe competing teams (physically or virtually). If safety requires co-location, obscure view/hearing of competing team.
 No attempts to learn other team's info.
 Allowed Locations: In-person group (same period), distributed at homes/facilities (same period), hybrid (same period). All team competitors must compete in the SAME period.
-3009 | Sharing of Competition Materials: Treat images, software, docs, websites, info as exam material. Coaches control distribution to their team (even if distributed).
-1. Rules Against Sharing:
-a. Structure area/procedures to prevent other teams gaining info/advantage. In separate rooms, no entering other's room (except safety, health, protection). Applies to distributed teams in same home/facility.
-b. Multiple connections to each image (console, RDP, SSH) OK. Multiple instances of same image NOT permitted.
-c. Strictly limit image/software distribution to own team. Delete materials after each round per email (Coach ensures via App VII statement). Images are AFA property.
-d. No sharing image/challenge info outside own team (even same school/org).
-e. No transferring images to non-CyberPatriot participants (EULA violation).
-f. Work only on assigned images.
-g. Ensure images/passwords not transferred outside team.
-h. No assisting teams not yet competed or actively competing.
-i. No posting/teaching/emailing/storing/sharing quizzes, questions, challenges, vulnerabilities, image/website info (readme.txt, NetAcad content, etc.). Screenshots of images/Scoring Report strictly prohibited.
-j. No seeking/copying/using answers/work not created by own team.
-k. Delete competition images, software (Packet Tracer) post-round per emails.
-2. Examples of Sharing Violations: Passing info to team yet to compete; posting online (even after round); using current/prior round images for training; requesting answers online; teaching vulnerabilities to anyone not competed (even other teams with same coach/mentor); cross-tier/division viewing/training; assisting another team; posting docs/quizzes; sharing screenshots; discussing answers with other teams (same school/org); "Hot Wash" for multiple teams; sharing audio/video/photo from another team's period.
-3010 | Outside Assistance: Prohibited during rounds (advice, suggestions, hands-on, e-comms like email, blogs, forums, Q&A sites, social media). No posting challenge-derived questions online. No using online/obtained answers.
-Coaches, Mentors, Assistants may ONLY assist with: admin issues pre-image; UID/NetAcad login entry; timekeeping; external LAN/connectivity issues; host system issues (unrelated to image); dangerous situations; saving scoring data post-period.
-1. Registered Competitors: Responsible for own performance. No outside help. Adults/other teams cannot coach/assist/collaborate/advise during period.
-a. Only REGISTERED competitors compete.
-b. Only verified/approved teams compete.
-c. 2-5 competitors active at a time.
-d. 6th competitor substitution: one-time per round; removed competitor cannot return/assist.
-e. Unregistered competitors -> scores withheld.
-2. Substitutions/Alternate Competitor: Non-competing team member (e.g., 6th) can observe in space but not advise/assist until subbed in or period ends. Cannot be advised by adults/non-team members. Once subbed, exiting competitor cannot re-enter/assist that round.
-3011 | Allowable Resources:
+3009 | Sharing of Competition Materials
+Coaches are entrusted with competition round materials including images, software, documentation,
+websites, and information. Coaches should treat the competition round materials as examination
+material. Coaches must control images, passwords, and other competition information so that
+competitors and others may use them only in the team’s competition space or competition area.
+For CyberPatriot 17, Coaches may distribute competition images, software, documentation, and
+information to their teams if the competitors are competing from home or other facilities. Coaches are
+responsible for controlling the distribution of images, software, documentation, and information directly
+to their team and shall not delegate the responsibility to the competitors.
+1. Rules against sharing information
+To avoid giving a competitive advantage to other teams, competitors may only share images and
+other information with their team members. Furthermore, participants must:
+a. Structure a competition area or use procedures so that other teams’ competitors may not gain
+useful information or a competitive advantage. In competition areas where competition spaces
+are in separate rooms, a team’s competitors may not enter another team’s room, except for
+competitor safety, health, or protection.
+29
+This rule applies when a team is distributed at a home or other facility. Coaches must ensure
+that their competitors’ competition spaces meet this requirement if competitors from other
+teams compete in the same home or facilities.
+b. Teams are not required to have only a single connection to each image. Console logins, RDP,
+SSH, etc., may be used to connect to the image. However, teams having multiple instances of
+the same image open at the same time is not permitted.
+c. Strictly limit distribution of CyberPatriot competition and practice images and software to their
+teams. Coaches shall ensure that the images and other challenge information including the
+Cisco NetAcad Challenge materials (e.g., Packet Tracer submissions, copies of quizzes), and
+the Boeing Cyber-Physical Systems Challenge images and materials are deleted after each
+round per the competition email.
+For CyberPatriot 17, Coaches may supervise the deletions of images and competition
+materials with the Competitor’s Post-Competition Statement in Appendix VII. The statements
+will be collected by the team’s Coach. If the CyberPatriot Program Office requests the
+statements, the coach shall forward them to the CyberPatriot Program Office.
+Note: All images distributed by the CyberPatriot Program Office are the property of the Air &
+Space Forces Association, not CyberPatriot participants.
+d. Not share information about the competition images or challenges with anyone outside of their
+team. This includes not sharing information with participants of other teams from the same
+school or organization.
+e. Not transfer copies of images to persons who are not currently registered CyberPatriot
+participants. Transfer of the images to non-CyberPatriot participants is a violation of the End
+User License Agreement.
+f. Work only on the images assigned to their team.
+g. Ensure that images and passwords are not transferred outside of their team.
+h. Not assist or provide an unfair advantage to teams that have not yet competed or are actively
+competing in a given round.
+i. Not post, teach, email, store, or share answered or unanswered quizzes, questions,
+challenges, exercises, vulnerabilities, information from within images or competition websites
+(e.g., www.netacad.com), from the competition. This includes scenarios, web pages,
+readme.txt files, and other documents associated with images and challenges. Screenshots of
+the images or the Scoring Report are strictly prohibited.
+j. Not seek, search, request, copy, or use competition answers or work from any source that was
+not created by their own team.
+k. When the round is complete, users shall delete the competition images, software (e.g., Packet
+Tracer) and ensure their competitors delete the competition images according to the guidance
+in competition emails.
+2. Examples of information sharing violations
+Examples of image or information sharing violations include:
+a. Passing vulnerabilities, information, or answers from a team that has competed or is
+competing to a team that has not yet competed in a given round.
+30
+b. Posting or re-posting information on or from images, competition software, or answers on
+social media, blog, or other website or through text or email -- even after a round of
+competition.
+c. Using an image or software from the present or a prior competition round for training.
+d. Requesting answers or other competition assistance on a blog or social media.
+e. Teaching or briefing an image or task’s vulnerabilities or answers to anyone who has not
+competed.
+f. Teaching or briefing an image or task’s vulnerabilities to other teams that have competed even
+if they have the same coach or mentor.
+g. A team from one tier or division viewing or training on another’s images or tasks.
+h. Assisting another team with their image or task.
+i. Posting a competition document or quiz with or without answers.
+j. Sharing screen captures of images or image contents.
+k. Discussing or sharing answers with other teams at the same school or organization.
+l. Conducting a “Hot Wash” for multiple teams during or after the competition round.
+m. Sharing audio, video, or photographic information from another team’s competition periods. 
+3010 | Outside Assistance
+Assistance to a team from outside the team’s competitors is prohibited during competition rounds.
+This includes direct and indirect advice, suggestions, hands-on assistance, and electronic
+communication such as email, blogs, forums, questions and answers websites, and other social
+media. Questions with verbiage taken from the competition challenges and tasks or describing a
+problem from a challenge or task may not be posted to any website. Answers or solutions to
+competition round challenges or tasks found online or obtained by other means shall not be used by
+the team – it is considered copying answers.
+Coaches, technical mentors, and team assistants may only assist teams with:
+a. Administrative issues before the image is opened.
+b. Entering the Unique Identifier and Cisco NetAcad Challenge login credentials.
+c. Timekeeping.
+d. Local area network outages and other connectivity issues that occur outside the competition
+image.
+e. Issues with the host system unrelated to the competition image itself.
+f. Dangerous or threatening situations that require adult intervention.
+g. Maintaining the team’s saved scoring data at the end of the competition period.
+1. Registered Competitors
+Competitors are responsible for their team’s performance during the competition and may NOT
+receive or request assistance outside of their team’s competitors. Once a competition period begins,
+coaches, technical mentors, team assistants, competitors on other teams, and other non-team
+members shall not coach, assist, collaborate, or advise competitors until the completion of the
+competition period.
+a. Only the competitors REGISTERED with a team shall compete with that team.
+31
+b. Only teams that have been verified by their verification official and approved by the
+CyberPatriot Program Office are eligible to compete. Coaches who have not been verified
+and approved will not receive competition-related emails.
+c. No fewer than two and no more than five competitors may compete at a time.
+d. A team’s sixth registered competitor may be substituted for any of the two to five competing
+competitors at the coach’s discretion. Once a substitution is made, the competitor that has
+been removed from the competition may not return in that round.
+e. Teams that do not have all of their competitors registered by the deadline will have their
+scores withheld until competitors have been officially added to the roster.
+2. Substitutions / Alternate Competitor
+Competitors on a team who are not competing (e.g., sixth member of a team, also known as the
+substitute or alternate) may observe the competition from within the competition space; however, they
+shall not advise or assist the team until they have been substituted into the competition or until the
+competition has ended. Additionally, substitute competitors may not be advised on the competition by
+coaches, technical mentors, or non-team members.
+Substitutions are a one-time event during a round of competition. Once a substitute enters the
+competition for another competitor, the competitor exiting the competition may not reenter during that
+round, and the exiting competitor cannot assist the team once they have been substituted. 
+
 3011 | Allowable Resources
 1. Internet Resources
 During competition rounds, Internet resources (e.g., FAQs, how-to guides, existing discussion forums,
