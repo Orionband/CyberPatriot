@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
      * The identifier for the specific language model to be used via OpenRouter.
      * 'meta-llama/llama-3.1-8b-instruct:free' specifies a free tier Llama 3.1 model.
      */
-    const MODEL_NAME = 'meta-llama/llama-3.2-1b-instruct:free';
+    const MODEL_NAME = 'meta-llama/llama-3.1-8b-instruct:free';
 
 
     /**
