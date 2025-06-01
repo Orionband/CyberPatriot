@@ -148,18 +148,79 @@ d. 6th competitor substitution: one-time per round; removed competitor cannot re
 e. Unregistered competitors -> scores withheld.
 2. Substitutions/Alternate Competitor: Non-competing team member (e.g., 6th) can observe in space but not advise/assist until subbed in or period ends. Cannot be advised by adults/non-team members. Once subbed, exiting competitor cannot re-enter/assist that round.
 3011 | Allowable Resources:
-1. Internet Resources: (FAQs, guides, forums, docs, software, scripts, etc.) allowed IF: free (no prior fee/membership/purchase for access); no token/CAC needed; publicly/reasonably available to all; NOT specifically for CyberPatriot; NOT team-staged; NOT by other teams/coaches/mentors/assistants . CyberPatriot website resources allowed.
-2. Printed Material: Books, magazines, checklists etc. permitted. Competitors choose/collect WITHOUT outside assistance. No reprinting existing material required.
-3. Electronic Media and Communication Devices:
-A. Electronic Media: (USB, CD, etc.) allowed IF: competitor-prepared (no outside help); contains authorized patches/updates/docs/data/software tools; offline copy of freely available internet resource (same restrictions as 3011.1).
-B. Communication Devices: (Cell phones, etc.) allowed in space for TEAM member comms or EMERGENCY. Not for sending/receiving/posting/sharing/obtaining competition info to/from outside team.
-C. Staging Resources: No staging/accessing unauthorized resources on internet, networks, systems, etc. No emailing/transferring unauthorized tools/scripts/data to host via another device. No secure FTP.
-4. Software Tools and Scripts: Competitors setup/use without outside help. Internet resource conditions apply.
-Tool must be publicly searchable (Google).
-WinMD5, 7-Zip, designated VM player are authorized. Other tools at own risk if not meeting specs.
-Do NOT delete/disable/tamper with C:\CyberPatriot folder or Scoring Service. Ensure AV/antimalware doesn't interfere.
-Scripts: Team-created scripts NOT software tools. Use at own risk (no score correction/appeal). No scripts from other teams/coaches/mentors/assistants . No inter-team script collaboration/sharing. No script updates from other team info.
-5. Posting or Publicizing Resources: Prohibited for scripts, software, resources created for CyberPatriot.
+3011 | Allowable Resources
+1. Internet Resources
+During competition rounds, Internet resources (e.g., FAQs, how-to guides, existing discussion forums,
+company websites, documentation, software, shell scripts, batch files, registry exports) are valid for
+competition use under the following conditions:
+a. The resource is free, and access has not been granted based on a previous fee, membership,
+employment, purchase, credit card, or other monetary instruments.
+b. No token, smart card, common access card, etc., is required to access it.
+c. The resource is publicly and reasonably available to all teams.
+d. The resource must not be specifically created for the CyberPatriot competition or any event
+using CyberPatriot software.
+e. The resource was not staged at an internet location by the team.
+f. The resource was NOT created by other teams, coaches, technical mentors, or team
+assistants.
+Resources located on the CyberPatriot website may also be used during competition.
+2. Printed Material
+Printed or handwritten reference materials (books, magazines, checklists, etc.) are permitted in
+competition spaces. Competitors shall choose and collect their team’s printed material for the
+competition round WITHOUT the assistance of coaches, technical mentors, other teams’ competitors,
+or non-competitors. Competitors are not required to reprint existing material.
+32
+3. Electronic Media and Communication Devices
+Coaches shall ensure that their teams compete without outside assistance through electronic media
+or communication devices. The following stipulations apply to this rule:
+A. Electronic Media – Because inconsistent Internet connections among teams may cause a
+competitive disadvantage, electronic media as defined below may be used in the online competition
+rounds under the following conditions.
+
+1. Permitted electronic media is defined as memory sticks, flash drives, removable drives, CDROMs, or other similar storage devices.
+2. Media must be prepared by a team’s competitors. Coaches, technical mentors, other teams,
+and non-competitors shall not prepare a team’s electronic media.
+3. Authorized Patches, Updates, Documents, and Data. Patches, updates, and other Internet
+resources and software tools authorized in the “Software Tools” paragraph in this chapter are
+permitted on electronic media.
+4. Offline Copy of Online Resources. A team may use an offline copy (on electronic media) of an
+otherwise freely available Internet resource, subject to the same definitions and restrictions as
+4009.1 and its sub-parts.
+B. Communication Devices – Cell phones, smartphones, and other wireless or wired devices are
+allowed in the competition space but shall be used to communicate only with team members, or in an
+emergency, they may be used to contact emergency services or appropriate people. The devices
+shall not be used to send, receive, post, share, or obtain competition information to and from people
+or sources outside of the team.
+C. Staging Resources – Teams shall not stage or access unauthorized resources on the Internet,
+networks, systems, servers, storage devices, communications devices, etc. Emailing or otherwise
+transferring unauthorized tools, scripts, and data to the image host computer via another computer or
+device is prohibited. Secure FTP sites may not be used.
+4. Software Tools and Scripts
+Competitors shall set up and use software tools without outside assistance. Internet resource
+conditions also apply to software tools.
+1. The tool must be searchable on the public Internet with the Google search engines. ALL
+Internet users have access to the tool(s).
+2. WinMD5, 7-Zip, and the virtual machine player designated on the CyberPatriot website
+Technical Specifications page are competition software and are authorized for the online
+rounds of competition. Teams using other software tools that do not meet competition
+technical specifications compete at their own risk. (See Chapter 3.)
+3. Teams should not delete, disable, or tamper with anything in the CyberPatriot folder or the
+CyberPatriot Scoring Service on their images. Furthermore, they should ensure that any
+antivirus or antimalware software that is installed on competition images does not interfere
+with this folder or service.
+4. Scripts. For purposes of the competition, scripts created by the competitors of a CyberPatriot
+team are not considered software tools.
+a. Teams may use scripts at their own risk. Failure to gain points using a script will not
+receive consideration for score correction or appeal.
+33
+b. Teams shall not use scripts or software created by members of other CyberPatriot
+teams, coaches, technical mentors, or team assistants.
+c. Teams from the same school or organization may not collaborate in the creation of
+scripts and may not share scripts with each other or other teams.
+d. Teams may not update scripts based on competition information provided by other
+teams.
+5. Posting or Publicizing Resources
+Publicly posting, distributing, or otherwise publicizing scripts, software, or other resources that were
+created for the CyberPatriot competition or events involving CyberPatriot software is prohibited. 
 3012 | Competition Image “One Instance” Rule: Only ONE instance of EACH image/software open at a time per team. Instance = opened in VM player, browser, etc. Applies to distributed teams.
 A. Instances of Different Images: If >1 image/software, one instance of EACH distinct image/software OK. (E.g., Win_Image1 on Comp1, Linux_Image1 on Comp2 = OK. Win_Image1 on Comp1 AND Win_Image1 on Comp2 = PENALTY).
 B. Shadowing: No shadowing, parallel ops, training, or other use of 2nd+ instance (online/offline).
