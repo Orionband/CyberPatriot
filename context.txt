@@ -462,6 +462,11 @@ Important Note Regarding the CyberPatriot XII (2019-2020) and Onward Seasons: Th
  Middle school teams with their own competition division were introduced in 2013. The first season with Middle School Division was CyberPatriot VI (2013-2014)
 End of CyberPatriot Wikipedia----------------------------------------------------------------------
 Start of CyberPatriot 18 competition schedule ---------------------------------------------------------------
+CyberPatriot 18 (2025-2026) Competition Schedule
+​​​
+
+CP17 competition timeline.png
+​​
 ​​​TRAINING EVENTS ​
 EVENT
 DATES AND TIMES (EASTERN TIME)
@@ -516,6 +521,8 @@ End: January 20 @ 11:59 PM ET
 *Images and download instructions are emailed to coaches of registered teams by​ 5:00 PM ET the day before round start date. ​
 ​Training images with answer keys are available in the ReadMe file.
 
+
+
 Competition Dates and times 
 NEW: all​ competition periods will be four hours LONG.
 
@@ -541,6 +548,7 @@ October 23 - 26, 2025
 9:00 AM ET 1st day of Round - StartEx email with the password to the images is sent to teams
 Tests basics of cybersecurity skills.
 
+Note: Image answers will be released after the round is completed.​​
 
 Round 2
 Open and All Service Divisions ​
@@ -556,12 +564,13 @@ November 13 - 16, 2025​
 9:00 AM ET 1st day of Round - StartEx email with the password to the images is sent to teams​
 More difficult for high school teams than Round 1. The results allow teams to be divided into skill-level tiers for the State Round.
 
-
+Note: Image answers will be released after the round is completed.​​
 
 
 
 
 The Introductory Round tests the basics of cybersecurity skills.
+Note: Image answers will be released after the round is completed.
 State Round
 (All teams participate. Open and All Service Division teams have a clean slate)	December 11 - 14, 2025​
 
@@ -579,6 +588,7 @@ National Finals
 March 20 - 24, 2026​
 
 National Finalist teams compete for the National Championship in their respective divisions.
+​​​​
 End of CyberPatriot 18 Schedule -----------------------------------------------------------------------------
 Please note that 2025-26, this year, is CyberPatriot 18. The rule book is from CyberPatriot 17(XVII).
 CyberPatriot has received many questions concerning the use of ChatGPT and other AI platforms
