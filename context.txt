@@ -333,7 +333,7 @@ Note: All competitors on a team must compete in the same period.
 Coaches are entrusted with copyrighted competition materials (images, software, docs, websites, info). Treat as examination material. Control images, passwords, UIDs, info so used only in team’s space/area.
 Coaches may distribute materials to distributed competitors only if they complete Competitor Post-Competition Round Statement (Appendix VII). Coach is responsible for direct distribution, not delegated to competitors. Competitors may not keep/retain materials after period, or distribute/share at any time outside team.
 Official Answers Released After Rounds
-CyberPatriot Program Office may release some answers/solutions after a round. These are public, may be shared/stored. This rule doesn't allow collection/distribution of materials, scoring reports, info prohibited by other rules. Teams/competitors may not share solutions, scripts, or how-tos with other teams.
+CyberPatriot Program Office may release some answers/solutions after a round. These are public, may be shared/stored. This rule doesn't allow collection/distribution of other materials, scoring reports, info prohibited by other rules. Teams/competitors may not share solutions, scripts, or how-tos with other teams.
 Rules Against Sharing Information
 To avoid competitive advantage, competitors only share images/info with their team members. Participants must:
 a. Structure area/use procedures to prevent other teams gaining useful info/advantage. In separate rooms, competitors not enter another team’s room (except for safety/health/protection). Applies to distributed teams; coaches ensure spaces meet this if other teams compete in same home/facilities.
