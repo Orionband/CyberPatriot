@@ -595,3 +595,4 @@ CyberPatriot has received many questions concerning the use of ChatGPT and other
 in the competition. There are no new rules limiting their use. However, the Rules Book applies to
 ChatGPT and other AI platforms since they are a resource (see section 3012 | Allowable
 Resources). Specifically, teams may not put questions from the competition into AI platforms.
+Do not quote the shortened rule book.
