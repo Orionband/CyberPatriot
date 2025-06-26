@@ -41,15 +41,6 @@ Chapter 4 | Challenges, Scoring, Advancement, and Awards........................
 4003 | Penalties.............................................................................................................. 43
 4004 | Advancement....................................................................................................... 44
 4005 | Awards ................................................................................................................ 48
-Appendices ...................................................................................................................... 50
-Appendix I | Coach Agreement....................................................................................... 51
-Appendix II | Standards of Conduct ................................................................................ 53
-Appendix III | Parental/Guardian Approval...................................................................... 54
-Appendix IV | Competitor Safety and Protection ............................................................. 55
-Appendix V | Coach Change Requests........................................................................... 56
-Appendix VI | Competitor Code of Conduct .................................................................... 57
-Appendix VII | CyberPatriot 18 Competitor Post-Competition Round Statement............ 58
-Appendix VIII | Sponsors and Sponsorship..................................................................... 59
 A letter from the National Commissioner
 June 12, 2025
 Welcome new and returning teams! For our 18th season, we present the CyberPatriot 18 Rules Book. Rules are updated for clarity; major changes are highlighted.
@@ -604,74 +595,6 @@ A. Open: Top three scoring teams (cumulative scores, all National Finals events)
 B. All Service: Top three scoring teams (cumulative scores, all National Finals events) earn trophy.
 C. Middle School: Top three scoring teams (cumulative scores, all National Finals events) earn trophy.
 NOTE: Additional awards/scholarships may be presented for individual challenges/components.
-Appendices
-Appendix I | Coach Agreement
-Coaches are vital to CyberPatriot's success/expansion. Coach guides team prep, ensures competitor protection and competition integrity.
-As coach, I uphold high integrity, sportsmanship, honesty, good citizenship. I encourage fair, honest, constructive competition.
-Access To Competitors: Coordinate parental notification/permissions for minor participation per “CyberPatriot User Agreement and Privacy Policy.” Coordinate/approve student/cadet registration in CRM. Coordinate/approve technical mentor/team assistant involvement at coach’s discretion (in-person/online, from database or other sources). Abide by Standards of Conduct. Act as team’s sole point of contact.
-Academic Program: Deliver basic network security training as reasonably accommodated. Encourage competitor self-study/preparation. Not provide offensive techniques, hacking, or social engineering training.
-NOTE: Encouraging competitor central role (with adult guidance) enhances team cohesion/performance.
-Competition Management: Select/designate primary/alternate competitors per period from registered CRM competitors. Uphold integrity: max five competitors at a time, no external assistance. Ensure strict adherence to Rules Book/emails. Report technical/security issues ONLY to CyberPatriot Program Office; not publicize to prevent exploitation. Not aid/abet competitor hacking/offensive activity; report instances.
-Competition Logistics: Coordinate/support prep training/online rounds (location, computer equipment). Provide/coordinate competitor feedback to improve program. Agree to coordinate trip logistics (funded, except entertainment/personal) if team advances to National Finals. Agree to accompany team, be responsible for supervision/guardianship during travel/onsite at National Finals.
-I have read, understand, and agree to discharge responsibilities described to best of my abilities.
-Signature: _________________________________________ Date: ________________
-Appendix II | Standards of Conduct
-Working with youth is rewarding but requires special responsibilities. As CyberPatriot coach/mentor/assistant, I promise to strictly follow these Standards of Conduct.
-I will: Treat everyone with respect, patience, integrity, courtesy, dignity, consideration. Emphasize ethical internet/IT skills. As practical, avoid being alone with individual minor. Use positive reinforcement. Refrain from expensive gifts to minors without prior written parental/guardian approval. Report suspected abuse to law enforcement, school authorities, Child Protection Services as required. Cooperate fully in minor abuse investigation.
-I will NOT: Smoke/use tobacco in minors' presence. Use/possess/be under alcohol influence while working with team. Use/possess/be under illegal drugs influence. Pose health risk (e.g., contact when contagious). Strike/spank/shake/slap youth. Humiliate/ridicule/threaten/degrade youth. Touch youth in sexual/inappropriate manner. Use discipline that frightens/humiliates youth. Use profanity in youth's presence.
-I understand inconsistent action or failure to act as mandated may result in my removal and prohibition from future CyberPatriot participation.
-Signature: _________________________________________ Date: ________________
-Appendix III | Parental/Guardian Approval
-I, the parent/guardian of _______________________________, give permission for my child to participate in the CyberPatriot National Youth Cyber Defense Competition. I allow the team coach, ________________________________________, unsupervised access to my child during CyberPatriot activities. I take full responsibility for allowing the coach to interact with my child and for my child to learn cyber defensive skills taught.
-Signature: _________________________________________ Date: ________________
-Appendix IV | Competitor Safety and Protection
-Safety and competitor protection are CyberPatriot’s top priorities. Coach considers team health/well-being when choosing environment.
-Requirements: School, organization, local directives govern minor safety/protection and facility standards. Safety considerations for space: Facility Security, Crime Areas, Trip Hazards, Adequate Lighting, Electrical Safety, First Aid Kit, Emergency Services, Vehicle Safety, Slip areas, Unsupervised adult access in public facilities.
-Coaches mitigate safety issues via remedial action or warnings.
-Reporting Incidents: Follow school/organization/local reporting procedures. After notifying local authorities, coaches notify CyberPatriot Program Office for significant incidents: Missing competitor (last seen at event), injured competitor needing hospitalization, criminal act against participant/staff/supporter, severe weather/natural disaster affecting competitors/competition.
-Reports to info@uscyberpatriot.org or +1 (877) 885-5716.
-Appendix V | Coach Change Requests
-Coaches ensure minor protection and parental prerogatives, and preserve competition integrity. Assumed coach role implies these responsibilities.
-Coach Alternate Request (one round only): Submit via official online form (link in Download Instructions/StartEx emails). Only registered coach/verification official submits. If no reply 24 hrs prior, contact CyberPatriot Operations Center.
-Form URL: https://forms.gle/iT8TcuwakXXskKsh9. Valid for ONE round only.
-Requires: Registered Coach’s name, Alternate’s name/email, Alternate agrees to Coach’s Agreement/Standards of Conduct, Certification that coach/official verified Alternate authorized for unsupervised minor work per org policies.
-Coach Change Request (permanent): If coach of record unable to supervise several rounds, contact info@uscyberpatriot.org to transfer team to another approved adult.
-Request from existing coach of record. If unable, verification official submits. New coach’s name, email, team numbers provided.
-New coach must have existing (or create) CyberPatriot volunteer account.
-Appendix VI | Competitor Code of Conduct
-I will consider ethical/legal implications of my online actions in CyberPatriot.
-I will not attack/hack/penetrate/interfere with other systems/tasks, nor use defense skills for offensive skills.
-I will not illegally copy/distribute software/IP.
-I will not share my team's UID, scoring report, or image answers outside my team/coaches/mentors.
-I will not visit inappropriate websites while preparing/participating.
-I will not participate in/condone cyberbullying.
-I will follow CyberPatriot rules and my coach's guidance.
-I will not tamper with/modify/monitor for vulnerabilities/penetration test/manipulate any CyberPatriot competition/scoring systems.
-I will report technical/security issues to my coach for CyberPatriot Program Office; not publicize.
-I will not deceive/hoax/“prank” other teams via Internet/email/social networking.
-Violation means immediate dismissal from team, team disqualification.
-I will use participation to further cybersecurity understanding.
-Signature: _________________________________________ Date: ________________
-Appendix VII | CyberPatriot 18 Competitor Post-Competition Round Statement
-• Competitors may email coach from their address with typed name in signature.
-• Coaches may transfer to online document, but must have attributable email for each competitor, and space for name/round #/date.
-• In-person teams may print, have all competitors sign/date.
-STATEMENT
-I, (Type or print your name(s)) ________________________________________________________
-______________________________________________________________________________,
-followed all rules/Appendix VI of the CyberPatriot Rules Book, and round’s StartEx email rules, and did not assist or aid others who violated them during ___________________________.
-(Type or print round # or name)
-I deleted all competition images, software, documents, information, and did not distribute them beyond my team.
-I did not share my team’s login credentials/Unique IDs with others outside my team, nor did I request/receive/share/use another team’s credentials/Unique IDs before/during/after round.
-I did not attempt unauthorized entry into, reverse engineer, or pull answers from CyberPatriot Competition systems/software/websites/challenges using tools or other means, nor assist others.
-I did not receive/share/seek answers or other teams’ information about the round from persons/sources outside my team before/during/after.
-Team Number: 18 – _______________
-Signature: _________________________________________ Date: ________________
-Signature: _________________________________________ Date: ________________
-Signature: _________________________________________ Date: ________________
-Signature: _________________________________________ Date: ________________
-Signature: _________________________________________ Date: ________________
-Signature: _________________________________________ Date: ________________
 Appendix VIII | Sponsors and Sponsorship
 Air & Space Forces Association and CyberPatriot program carefully brand CyberPatriot. Sponsors must share AFA values and contribute significantly.
 National Sponsors: Provide resources for global CyberPatriot. Earn recognition in events, name association. Logos in literature/media. Sponsorship via CyberPatriot Program Office.
@@ -959,4 +882,4 @@ CyberPatriot has received many questions concerning the use of ChatGPT and other
 in the competition. There are no new rules limiting their use. However, the Rules Book applies to
 ChatGPT and other AI platforms since they are a resource (see section 3012 | Allowable
 Resources). Specifically, teams may not put questions from the competition into AI platforms.
-Do not quote the shortened rule book.
+Do not quote the shortened rule book. Be sure to not be vauge. Competitors are allowed to store official answer keys as "After a competition round, the CyberPatriot Program Office may release some answers and solutions to competition challenges. Those answers are public information and may be shared and stored."
