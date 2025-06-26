@@ -1,318 +1,682 @@
 The Summary of the CyberPatriot rule book is provided bellow. THIS IS NOT THE FULL RULE BOOK----------------------------------------------------------------------
-Governing Principles & Introduction
-All participants (coaches, technical mentors, team assistants, competitors, staff) are bound by these rules, which prioritize inspiring K-12 students towards STEM/cybersecurity careers. The competition relies on:
-Integrity: Honesty and ethics are foundational.
-Service: Adults prioritize competitor well-being and education.
-Excellence: Pushing students to achieve their best.
-Key operating principles include:
-Competitor Safety and Protection (Top Priority): Coaches must ensure a safe environment, protect from unauthorized individuals/online activity, use secure facilities, and follow incident reporting procedures.
-Fairness: No unfair advantages.
-Adherence to Rules: All must obey.
-Privacy: Protect personal information.
-Transparency: Open communication where fairness isn't compromised.
-Cyber Citizenship: Teaches Internet ethics, safety, and defensive activities only; hacking or unauthorized access/use/modification is prohibited.
-If an organization's rules are more restrictive than CyberPatriot's, the organization's rules prevail. Rule changes will be posted on www.uscyberpatriot.org and emailed to coaches. Recommendations for rule updates can be emailed to cpoc@uscyberpatriot.org (Subject: "Rules Book Recommendation").
-Chapter 1: Organization and Participants
+CyberPatriot 18 (2025-2026)
+National Youth Cyber Defense Competition
+Rules Book
+Available at www.uscyberpatriot.org
+A STEM program of the Air & Space Forces Association
+1201 Joyce St., Arlington, VA 22202 | 877-885-5716 | www.afa.org
+© 2024. All Rights Reserved.
+Table of Contents
+Introduction ....................................................................................................................... 5
+Chapter 1 | Organization and Participants....................................................................... 6
+1001 | CyberPatriot Staff .................................................................................................. 7
+1002 | Competition Divisions ............................................................................................ 7
+1003 | Teams and Team Members................................................................................... 9
+1004 | CyberPatriot Centers of Excellence (COEs)......................................................... 16
+1005 | CyberPatriot Rules Advisory Group (CRAG)........................................................ 16
+Chapter 2 | Registration Process and Requirements.................................................... 17
+2001 | Volunteer Accounts.............................................................................................. 18
+2002 | Coach Registration and Team Creation ............................................................... 18
+2003 | Technical Mentor and Team Assistant Registration ............................................. 18
+2004 | Competitor Registration ....................................................................................... 19
+2005 | Team Registration Fees....................................................................................... 19
+Chapter 3 | Online Competition Round Rules................................................................ 21
+3001 | Overview ............................................................................................................. 22
+3002 | Official Competition Communication .................................................................... 22
+3003 | Competition Time and Date Restrictions.............................................................. 24
+3004 | Team Numbers, Unique Identifiers, and Competition Login Credentials ............. 26
+3005 | Technical Hardware and Software Specifications ................................................ 27
+3006 | Internet Connectivity to Competition Servers and Websites................................. 27
+3007 | Coach Supervision and Oversight........................................................................ 28
+3008 | Competition Areas, Spaces, and Interaction with Other Teams ........................... 28
+3009 | Sharing of Competition Materials ......................................................................... 29
+3010 | Outside Assistance.............................................................................................. 31
+3011 | Allowable Resources ........................................................................................... 32
+3012 | Competition Image “One Instance” Rule .............................................................. 34
+3013 | Offensive Activity and Tampering ........................................................................ 35
+3014 | Inquiries for Rules Violations ............................................................................... 36
+Chapter 4 | Challenges, Scoring, Advancement, and Awards...................................... 37
+4001 | Competition Challenges....................................................................................... 38
+4002 | Scoring ................................................................................................................ 39
+4003 | Penalties.............................................................................................................. 43
+4004 | Advancement....................................................................................................... 44
+4005 | Awards ................................................................................................................ 48
+Appendices ...................................................................................................................... 50
+Appendix I | Coach Agreement....................................................................................... 51
+Appendix II | Standards of Conduct ................................................................................ 53
+Appendix III | Parental/Guardian Approval...................................................................... 54
+Appendix IV | Competitor Safety and Protection ............................................................. 55
+Appendix V | Coach Change Requests........................................................................... 56
+Appendix VI | Competitor Code of Conduct .................................................................... 57
+Appendix VII | CyberPatriot 18 Competitor Post-Competition Round Statement............ 58
+Appendix VIII | Sponsors and Sponsorship..................................................................... 59
+A letter from the National Commissioner
+June 12, 2025
+Welcome new and returning teams! For our 18th season, we present the CyberPatriot 18 Rules Book. Rules are updated for clarity; major changes are highlighted.
+All registered CyberPatriot participants (coaches, technical mentors, team assistants, competitors) are bound by these rules, in force until the next signed edition. School/organization rules take precedence if more restrictive.
+Special thanks to coaches, technical mentors, and staff whose insights were instrumental.
+Changes will be posted on the CyberPatriot website and emailed to coaches.
+Submit rule recommendations to cpoc@uscyberpatriot.org with subject “Rules Book Recommendation.”
+Sincerely,
+Rachel Zimmerman
+National Commissioner, CyberPatriot
+Introduction
+CyberPatriot inspires K-12 students toward cybersecurity/STEM careers. This document outlines rules for the National Youth Cyber Defense Competition.
+Competition success depends on all participants (competitors, coaches, technical mentors, team assistants, staff) adhering to ethical standards and guiding principles:
+• Integrity – Honesty and ethics are foundational, especially without supervision.
+• Service – Adults prioritize competitor well-being and education.
+• Excellence – Students are pushed to achieve their best.
+Operating principles:
+• Competitor Safety and Protection – TOP PRIORITY. Coaches ensure team safety, secure environments, appropriate online activity, and secure facilities. Incidents must be reported to local authorities and mitigated immediately.
+• Fairness – No participant gains or gives unfair competitive advantage. Direct concerns to CyberPatriot Program Office immediately.
+• Adherence to the Rules – Everyone obeys these rules. Coaches ensure team compliance.
+• Privacy – Participants’ personal information is protected. Names/photos may be published with permission.
+• Transparency – Staff and coaches engage in two-way communication without infringing fairness.
+• Cyber Citizenship – CyberPatriot teaches Internet ethics, safety, and defensive activities only. It is not a hacking competition; it does not teach or tolerate hacking, or any unauthorized system entry/use/modification.
+Chapter 1 | Organization and Participants
 1001 | CyberPatriot Staff
-Program Office: Administers the program under the National Commissioner (final authority). Handles general, registration, and outreach inquiries (info@uscyberpatriot.org or 877-885-5716). Technical questions to cpoc@uscyberpatriot.org.
-Operations Center (CPOC): Provides Tier 1 technical support during competition windows via WebEx Chat or phone (877-885-5716).
+CyberPatriot Program Office
+The CyberPatriot Program Office, within the Air & Space Forces Association, organizes and administers CyberPatriot under the National Commissioner.
+A. National Commissioner – Oversees program, final authority on competition decisions.
+B. CyberPatriot Program Office Staff – Supports Commissioner, handles daily operations/competition support. Contact 877-885-5716 (ET business hours). Technical questions: cpoc@uscyberpatriot.org; general/registration/outreach: info@uscyberpatriot.org.
+CyberPatriot Operations Center (CPOC)
+Within the Program Office, CPOC provides Tier 1 technical support for online competitions during scheduled windows via WebEx Tech Support Chat or 877-885-5716. Staffed by temporary personnel during peak competition.
 1002 | Competition Divisions
-Teams compete independently within three divisions. No limit on teams per organization per division. Division assignment is final after the first qualification round unless an administrative error occurred.
-Open Division: For high school students from approved organizations (public/private/parochial/charter/magnet schools, home schools, state-chartered virtual schools, scouting units, Boys & Girls Clubs, YMCA/YWCA, other approved youth orgs*). Competitors must be affiliated with the registering organization.
-All Service Division: For high school students who are official members of approved organizations (Army/Navy/Marine Corps/Air Force/Space Force JROTC, Civil Air Patrol, US Naval Sea Cadet Corps). JROTC programs are distinct categories (AF/SF JROTC combined; Navy/CG JROTC combined). Competitors must be enrolled in the registered program for the competition duration.
-Middle School Division: For middle/junior high students from approved organizations (similar to Open Division, plus Civil Air Patrol and US Navy League Cadet Corps). Competitors must be affiliated with the registering organization.
-Other Organizations & Special Requests:
-Other Organizations: May field Open/Middle School teams if they exist independently of CyberPatriot, have a youth program charter, mission consistent with AFA/CyberPatriot, a designated accountable leader, and a minor protection policy with mandatory adult training. Approval required (form to info@uscyberpatriot.org).
-Composite Teams: Discouraged, but the National Commissioner may approve if:
-Individual organizations are too small for a full team and aren't fielding other teams.
-Competitors belong to a common recognized entity (e.g., school district) which registers the team.
-USNSCC/CAP teams require National HQ Rep concurrence.
-An age-based composite (MS/HS students on an Open/CAP/USNSCC team) may be approved if: the organization can't form a viable MS team, max two MS students, common entity, verification official consents, and it's the only such team for that organization. Exception requests to info@uscyberpatriot.org.
+CyberPatriot teams divide into three independent divisions: Open, All Service, Middle School. Rules apply equally unless specified. Teams remain in assigned divisions after qualification, except for administrative errors.
+No limit on teams an organization can host per division.
+Open Division
+High school/senior high students may compete on Open Division teams fielded by approved organizations: Public School, Magnet School, Boys and Girls Club, Private School, Home School, YMCA/YWCA, Parochial School, State-chartered Virtual School, Other Youth Organizations*, Charter School, Scouting Unit.
+Registering organization fields the team; all competitors must be enrolled or directly affiliated.
+All Service Division
+High school/senior high students may compete on All Service Division teams fielded by approved organizations, if all competitors are official members: Army JROTC, Marine Corps JROTC, US Naval Sea Cadet Corps, Navy JROTC/Coast Guard JROTC (combined), Air Force JROTC/Space Force JROTC (combined), Civil Air Patrol.
+Each is a “Category,” affecting awards/advancement. Registering organization fields the team; all competitors must be fully enrolled in registered JROTC, CAP, or USNSCC and remain enrolled for duration.
+Middle School Division
+Middle school/junior high students may compete on Middle School Division teams fielded by approved organizations: Public School, Magnet School, Boys and Girls Club, Private School, Home School, YMCA/YWCA, Parochial School, State-chartered Virtual School, Civil Air Patrol, Charter School, Scouting Unit, US Navy League Cadet Corps, Other Youth Organizations*.
+Registering organization fields the team; all competitors must be enrolled or directly affiliated.
+Other Organizations and Special Requests for Competition Divisions
+Apply to Open, All Service, Middle School divisions:
+A. Other Organizations – At National Commissioner's discretion, established organizations existing independently of CyberPatriot/cyber/STEM competitions, with recognized structure beyond team support, may field Open or Middle School Division teams if they meet:
+Charter/Youth Program: Charter includes high school/middle school youth program.
+Mission/Purpose: Consistent with CyberPatriot/AFA principles.
+Designated Official Leader: Accountable leader authorized to designate adults with unsupervised minor access.
+Minor Protection Policy/Training: Official minor protection/safety policy.
+Minor Protection Training Requirement: Mandatory formal training for adults with unsupervised minor access.
+*Teams registering under “Other” require National Commissioner approval before competing. Complete form describing qualifications and email to info@uscyberpatriot.org.
+B. Composite Teams – Commissioner may consider composite teams from multiple fielding organizations if:
+Organizations’ sizes don't support a full CyberPatriot team.
+Organizations aren't fielding other CyberPatriot teams.
+Competitors belong to a common legally recognized entity (e.g., school district, non-profit) which registers the team.
+For USNSCC/CAP teams, National HQ CyberPatriot Representative concurrence is required.
+Commissioner may also consider composite Open, CAP, or USNSCC teams with both middle/high school competitors if:
+Coach estimates organization size doesn't support a viable Middle School team alone.
+Max two middle school students registered to team.
+Competitors belong to a common legally recognized entity.
+Team’s verification official consents.
+It is the organization's only age-based composite team.
+*Meeting requirements doesn't guarantee approval. Email exception requests to info@uscyberpatriot.org for National Commissioner approval before competing.
 1003 | Teams and Team Members
-Team Composition:
-Required:
-Coach: One adult leader (teacher, parent, etc.) per team; completes registration, supervises, sole PoC. Max 5 teams per coach.
-Verification Official: Organization administrator verifying coach's approval for unsupervised minor interaction and youth protection training.
-Competitors: 2-6 students. No US citizenship requirement.
-Optional:
-Technical Mentor: Adult volunteer with technical knowledge for training.
-Team Assistant: Adult volunteer for non-technical/administrative support.
-(Mentors/Assistants require a SSN for background check).
-Team Member Roles:
-Coach: Adult (18+), not a competitor/HS student, not Program Office staff. Vetted by Verification Official. Agrees to Coach Agreement/Standards of Conduct.
-Additional for Sponsors/AFA Employees: Requires consent from their org's CyberPatriot rep. Former Program Office staff ineligible for 3 years post-employment.
-Additional for Competition Volunteers/Staff: Ineligible to coach/mentor during volunteering season and for 1 year after.
-Additional for CAP/USNSCC: Senior member/adult leader, CPPT completion, chain-of-command authorization for unsupervised minor access.
-Additional for Home School: Verified by co-op/accredited teacher. Authorized for unsupervised minor access, written parental consent (Appendix III retained), certified youth protection training (e.g., BSA).
-Responsibilities: Competitor safety/protection (Appendix IV), competition integrity (no outside help during rounds), official PoC.
-No Compensation: Volunteer basis.
-Changes:
-Coach Alternate: Temporary (1 round), approved by Program Office & Verification Official (Appendix V).
-Coach of Record Change: Prolonged unavailability, contact Program Office (Appendix V).
-Verification Official: Principal, department head, unit commander, etc. (cannot verify self). Verifies coach's approval for unsupervised minor work, organization's registration of team, and adherence to org rules. Notifies Program Office of coach fitness concerns.
-Competitors: 2-6 per team (max 5 compete at once). One team per season.
-Open Division: Enrolled in participating HS program or affiliated with non-school org. JROTC/CAP/USNSCC can join if not on an All Service team.
-All Service Division: Enrolled in participating HS program and respective JROTC/CAP/USNSCC program for competition duration. Same unit/squadron unless composite exception.
-Middle School Division: Enrolled in participating MS/Jr. High program or equivalent.
-Responsibilities: Abide by Competitor Code of Conduct (Appendix VI), agree to ethics on image login.
-Technical Mentors: Optional adult (18+), not competitor/HS student. Passes Program Office background check (SSN required). Agrees to Standards of Conduct (Appendix II), no hacking skills taught. Meets team with coach approval. Linked to team(s) via dashboard. No compensation. Coaches can be mentors if registered as such.
-Team Assistants: Optional adult (18+), not competitor/HS student. Similar eligibility/requirements as Mentors. Provides non-technical support (setup, snacks). No compensation. Coaches can be assistants if registered.
-Team Identification:
-Team Numbers: Assigned at registration (e.g., 18-0001), primary identifier.
-Unique Identifiers (UIDs) & Login Credentials: 12-digit alphanumeric for image validation, on coach dashboard. Other credentials per instructions. Not emailed.
-Organization Name: Official team name.
-Unofficial Nicknames: Optional, good taste, subject to veto.
-Anonymity: Generally anonymous except for team number. Exceptions:
-Online Rounds: Top-scoring teams may be listed on public scoreboard. State Round winners published (name, nickname, coach) without scores.
-National Finals: Advancing teams have photo, names (official, nickname, coach, competitors) published. Winners have names, awards, rankings published.
-1004 | CyberPatriot Centers of Excellence (COEs): Recognized institutions promoting STEM/cyber education.
-1005 | CyberPatriot Rules Advisory Group (CRAG): Coaches/mentors advising National Commissioner on rules. Contact cpoc@uscyberpatriot.org to join.
-Chapter 2: Registration Process and Requirements
-2001 | Volunteer Accounts: Required for adults (18+) as coaches, mentors, or assistants. Students SHOULD NOT create them.
-2002 | Coach Registration and Team Creation:
-Individual creating team is automatically coach.
-Creating Teams: Max 5 teams per coach (same/different orgs/divisions). Requires separate "Create Team" form and verification for each.
-Verification/Approval: Verification official receives email, verifies coach. Program Office gives final approval. Coach receives approval email, instructions for fees/competitor registration.
-Deadline: Opened April 1, 2025. Team registration deadline: Oct 1, 2025. Verification/approval by first Competition Round. Fee payment by Nov 5, 2025.
-(Detailed instructions: uscyberpatriot.org)
-2003 | Technical Mentor and Team Assistant Registration:
-No deadline.
-Process: Complete "Mentor Application" on dashboard. Pass background check (via PeopleFacts, Inc.; SSN required).
-Linking: Approved mentors/assistants appear on a list for coaches. Coaches invite ("Find Mentor"), or volunteers can contact teams ("Find Team"). Availability changeable via "Edit Profile."
-(Detailed instructions: uscyberpatriot.org)
-2004 | Competitor Registration:
-Coaches add competitors to online rosters by 11:59 PM ET, Oct 22, 2025 (after team approval).
-Process: Select "Register Competitor" on dashboard. Provide name, email, T-shirt size.
-Parental Approval: Coach checks box indicating parental/guardian consent (oral, written, tacit). Forms NOT submitted to Program Office (sample Appendix III).
-Competitor Questionnaire: Emailed link for optional demographic survey (internal use).
-2005 | Team Registration Fees:
-Complete when fee paid/waived. Due once team competes in a scored round. Payable by published deadline.
-Fees:
-Open Division: $225/team
-All Service Division: Waived
-Middle School Division: $175/team
-(20% discount if registered by July 1)
-Waivers:
-Open/Middle School: Title I schools (submit waiver request from dashboard, email documentation to info@uscyberpatriot.org), all-girl teams (request after roster complete, approved after competitor registration deadline).
-Middle School: Waived for CAP, Navy League Cadet Corps.
-Chapter 3: Online Competition Round Rules
-3001 | Overview:
-Teams compete online fixing vulnerabilities. Ethical conduct is paramount. Rules prevent misconduct and ensure fairness. Applies to all CyberPatriot activities involving images/tasks. Violations may lead to penalties.
-3002 | Official Competition Communication:
-Primary channel: Email to coaches from info@uscyberpatriot.org or cpoc@uscyberpatriot.org. During rounds, email is NOT for tech support. Official info may also be on CPOC chat, image scoring report, or website.
-Before Round:
-Download/Instructions Email: By Monday prior (instructions, download links, Challenge info, tech support info).
-StartEx Email: 9:00 AM ET first day of round (decryption passwords, last-minute changes).
-After Round:
-Preliminary Score Email: Notifies of preliminary scores, deadline for Discrepancy Reports.
-Results Email: Typically 8 working days after round (link to scores, general vulnerability categories list).
-Technical Support (During Competition Window):
-Preferred: CPOC Tech Support Chat (WebEx, info in StartEx email).
-Alternative: Phone: +1 (877) 885-5716.
-Email NOT for live support. Use only if requested by tech support. Score Correction Requests, Discrepancy Reports, appeals NOT via email.
-Technical/scoring questions (outside rounds): cpoc@uscyberpatriot.org.
-Registration/admin questions: info@uscyberpatriot.org.
-Collaboration Tools: Staff may use WebEx, Teams, etc., for complex issues.
-Other Notifications: Image scoring reports, website, WebEx banner, social media.
-3003 | Competition Time and Date Restrictions:
-Official Time: Network Security Challenge scoring server time.
-Competition Rounds:
-Round: Scheduled contiguous dates with identical challenges.
-Window: Specified support hours (ET): Thu 9AM-10PM, Fri 9AM-11:59PM, Sat 8AM-11:59PM, Sun 10AM-8PM. (Makeup days usually 9AM-5PM ET). No competition outside windows.
-Period: Single, 4-consecutive-hour block chosen by coach within a window.
-Start: When first image starts in VM player. Other challenges start after. If not doing image challenge, still open image/enter UID to start time.
-End: 4 hours after first image start, regardless of image/team time display. All challenges must end.
-Coach's Competition Period Responsibilities:
-Ensure youth protection and safe environment.
-Be present (physically or virtually) for entire period.
-Prevent prohibited online activities (Appendix VI).
-Obtain UID/credentials from dashboard.
-Register team for Cisco NetAcad, obtain credentials.
-Check team's tier (HS only) for correct images/tasks.
-Competition Period Restrictions:
-One 4-hour period per round.
-Period must be within round/window.
-First action in image: enter UID.
-Start other challenges after first image; end all by period's end.
-No "sneak peeks" or early image opening. Download, checksum, connection test ONLY.
-No image interaction after period ends.
-Scoring Report times are for reference; team responsible for 4-hour limit.
-Local technical issues don't grant extra time (unless competition-wide).
-Alternate Competition Dates:
-Extension: National Commissioner may extend round for widespread issues.
-Emergency Date: For verified emergencies (severe weather, coach hospitalization). Coach/Alternate requests via online Appeals Form (link in StartEx). Not for schedule conflicts. Deadline: 4 PM ET Tuesday after original round start.
-Postponement: National/regional emergency or competition-wide issue. Round moved to following weekend unless specified.
-3004 | Team Numbers, Unique Identifiers, and Competition Login Credentials:
-No division changes after Round 2.
-UIDs/credentials are team-specific; no sharing.
-Do not change UID mid-image unless CPOC notified via Score Correction Request.
-Credentials on coach dashboard (not emailed). Coach responsible for obtaining/retaining.
-Check dashboard pre-competition. Inability to access is not grounds for appeal/extra time.
-3005 | Technical Hardware and Software Specifications:
-Current specs at uscyberpatriot.org/competition/technical-specifications. Failure to meet is not grounds for appeal/extra time.
-3006 | Internet Connectivity to Competition Servers and Websites:
-Team responsibility. Images/challenges require server connection. Offline work without connection may lead to disqualification.
-Mandatory Access: www.uscyberpatriot.org and other listed sites. Coaches should save dashboard info offline.
-Network Outage: Continue working on images. Scoring engine tracks progress upon restoration. Have a backup plan (hotspots, alternate safe location).
-3007 | Coach Supervision and Oversight:
-Supervision: Coach (or approved Alternate) supervises entire period.
-In-person group: Coach physically present.
-Distributed teams: Coach/Alternate available; must have 2-way verbal/video conversation with each competitor at least once. Competitors submit Post-Competition Round Statement (Appendix VII) by 11:59 PM ET last day of round/emergency date. Coach retains statements until Feb 15.
-Oversight Visits: Coaches allow staff/AFA officials to observe.
-Staff System Entry: Staff may request system view for oversight/troubleshooting (no changes made by staff). Teams grant immediate access.
-3008 | Competition Areas, Spaces, and Interaction with Other Teams:
-Competition Area/Space: Physical or virtual location for team(s).
-Control: Coach/Alternate present (in-person) or available (distributed).
-Multiple Teams: Prevent communication/collaboration (distance, separate rooms, low volume, notes hidden).
-Virtual Teams: Same rules as physical.
-Interactions with Other Teams:
-No communication between different competing teams.
-Non-competing teams/individuals may not observe competing teams (physically or virtually). If unavoidable (safety), obscure view/sound.
-No attempts to learn other teams' info.
-Allowed locations: In-person group, distributed (homes/facilities), hybrid. All competitors on a team compete in the SAME period.
-3009 | Sharing of Competition Materials (AFA IP):
-Treat as exam material. Coach controls distribution to their team only. Competitors do not retain/distribute materials post-period.
-Official Answers Post-Round: Public information. Does not permit prohibited collection/distribution. No sharing solutions/scripts.
-Rules Against Sharing:
-Prevent others gaining advantage (e.g., no entering other teams' rooms except for safety). Applies to distributed teams sharing facilities.
-Multiple connections to an image (console, RDP, SSH) are allowed; multiple instances of the same image are NOT.
-Limit distribution of images/software to own team. Delete materials post-round per emails (coach supervises, may use Appendix VII).
-No sharing image/challenge info outside team (even within same school/org).
-No transferring images to non-participants (EULA violation).
-Work only on assigned images.
-No transferring passwords outside team.
-No assisting teams yet to compete or actively competing.
-No posting/sharing answered/unanswered quizzes, questions, vulnerabilities, image content, screenshots (except for score discrepancy dispute).
-No seeking/using external answers/fixes.
-Delete images/software post-round.
-Examples of Violations: Passing info to teams yet to compete, posting image info online, using old images for training, requesting answers online, briefing vulnerabilities to others, cross-tier viewing, assisting other teams, posting documents/quizzes, sharing screenshots, "hot wash" for multiple teams.
-3010 | Outside Assistance:
-Prohibited during competition. No advice, suggestions, hands-on help, or electronic comms (email, forums, Q&A sites) for solutions. No posting challenge-derived questions online. Using found solutions is copying.
-Adults (Coach/Mentor/Assistant) MAY assist with:
-Admin issues pre-image opening.
-Entering UID/NetAcad credentials.
-Timekeeping.
-LAN/connectivity issues outside image.
-Host system issues unrelated to image.
-Dangerous situations.
-Saving scoring data post-period.
-Registered Competitors: Responsible for own performance. Min 2, max 5 compete at once. 6th member is substitute.
-Only verified/approved teams compete.
-Substitutions: One-time per round. Exiting competitor cannot return/assist.
-Substitutes/Alternates (e.g., 6th member): May observe in space, but no advising/assisting until substituted in or competition ends. No external advice to subs.
-3011 | Allowable Resources:
-Internet Resources: Free, publicly available (no fee/membership/token access), not CyberPatriot-specific, not staged by team, not from other teams/coaches/mentors . CyberPatriot website resources okay.
-Printed Material: Books, checklists, etc., allowed. Competitors collect without adult/other team help.
-Electronic Media/Communication Devices:
-Electronic Media (USB, CD-ROM): Prepared by team's competitors only. Can store authorized patches, public resources (per 3011.1), authorized software.
-Communication Devices (phones, etc.): Allowed in space for intra-team comms or emergencies. Not for external info seeking/sharing.
-Staging Resources: Prohibited on Internet, networks, etc. No emailing unauthorized tools/scripts/data to host. No secure FTP.
-Software Tools and Scripts: Competitor setup. Must be publicly searchable/accessible.
-Authorized: WinMD5, 7-Zip, designated VM player. Other tools at own risk.
-Do not delete/disable/tamper with CyberPatriot folder/service. Ensure AV doesn't interfere.
-Scripts: Created by team's competitors are okay (not "software tools"). Use at own risk (no score correction/appeal for script failure). No using scripts from other teams/adults . No inter-team script collaboration/sharing/updating based on others' info. Pre-written scripts banned at National Finals.
-Posting Resources: Prohibited to publicly post/distribute CyberPatriot-specific scripts/software/resources.
-3012 | Competition Image “One Instance” Rule:
-Only one instance of each image/software open at a time per team (even if distributed). Instance = opened in VM player, browser, etc.
-Different Images: One instance of each distinct image/software allowed.
-Shadowing: Not permitted (no parallel ops, training on second instance).
-Zipped Backups: Additional ZIPPED downloads okay on other hosts for backup. Delete after round.
-Re-Opening: If original image corrupts, close/delete it before opening new instance. Period time continues.
-Snapshots: Allowed (including host file copy for backup) for rollback.
-3013 | Offensive Activity and Tampering:
-Prohibited against other teams, systems, documents, tasks, non-participants. No seeking/exploiting vulnerabilities.
-Includes: Hacking, reverse engineering CyberPatriot software, interference, social engineering, tampering with scoring/systems/time, modifying docs, DDoS, posting vulnerabilities (except to Program Office), pen testing, unauthorized system entry, using tools to view answers. Warning: Copying scoring components may damage systems.
-3014 | Inquiries for Rules Violations:
-National Commissioner may appoint staff for inquiry.
-Materials: Coach secures affected materials, prevents access/modification. Forensic analysis possible. Transfer/upload as requested.
-Interviews: In-person, phone, etc.
-Questionnaires: May be requested.
-Chapter 4: Challenges, Scoring, Advancement, and Awards
-4001 | Competition Challenges:
-Online rounds may include:
-Network Security Challenge: Main event. Fixing vulnerabilities in virtual machine images (simulated OS with scoring software). CCS scores.
-Coach image responsibilities: Control passwords, images, software. Delete post-round. Maintain saved scoring data until appeal/inquiry resolved.
-Accurate host time required (check time.gov, don't change mid-round).
-CCS: Internet-dependent client-based scoring. Score can decrease (undoing fixes, penalties). Lost points recoverable. Not all vulnerabilities scored.
-Cisco Networking Academy (NetAcad) Challenge: Timed event (questions, Packet Tracer). Middle School scores starting Introductory Round.
-Access via NetAcad website. Competitors <13 need parent/guardian permission.
-Quizzes auto-scored; Packet Tracer manually scored.
-Other Challenges: May be added, with or without advance notice.
-National Finals Competition: In-person (DC area). Includes Red Team, more challenges. Separate rules doc. Health/safety are top priority.
-4002 | Scoring:
-Score-Governing Rules:
-Network Security: Vulnerabilities fixed/remediated, questions answered.
-NetAcad/Boeing/Other: Performance-based.
-No weighting factors in Qualification Rounds or for advancement.
-Network Security Challenge is most heavily weighted.
-Administrative penalties may apply.
-Tiebreakers:
-Advancement to State tier/Semifinals: All tied teams advance.
-State Awards: 1) Highest State Rd Image score, 2) Highest total Qual. Rds score, 3) Highest R2/Intro. Rd score, 4) Fastest State Rd Image final score time, 5) Fastest State Rd NetAcad Quiz submission, 6) Fastest R2/Intro. Rd Image final score time.
-Semifinals Awards: Similar to State Awards, but using Semifinal scores as primary.
-National Finals Advancement/Awards: Similar to Semifinal Awards, prioritizing Semifinal Image score.
-Unbreakable ties: National Commissioner determines method (e.g., coin toss).
-Score Corrections (Coach/Alternate only):
-Score Correction Request: Online form (link in StartEx) during round for admin/tech/scoring errors. No direct answer; approved requests modify score. Deadline: 11:59 PM ET last day of scheduled round (or team's competition day if on extension/emergency date). Document with scoring files (C:\CyberPatriot\ScoringData or /opt/CyberPatriot/) or full, readable Scoring Report screenshot (then delete screenshot).
-Preliminary Score Discrepancy Report: Online form (link in Prelim. Scores email) after round for prelim. score discrepancies (incorrect scores, penalties, overtime, multiple instances). NOT for issues that should have been in Score Correction Request. Deadline: 1-2 working days after prelim. scores published.
-Appeals Process: Formal procedure for unforeseen conditions impacting competition. Not for pursuing advancement by other means. Includes Emergency Date requests. Online Appeals Form (link in round emails). National Commissioner is final authority.
-Deadlines: By 4 PM ET Tuesday after round start (unless otherwise published).
-Originator: Coach/Alternate only.
-Grounds NOT considered: Using unapproved software/VM versions, not receiving emails, ignorance of dates, failure to secure alternate/space, schedule conflicts, non-catastrophic internet issues, IT dept. failures, hotspot failure, changing default VM settings, incorrect UID/credentials after first Qual. Rd, non-Windows host issues, non-spec hardware/software.
-Scored Vulnerability Fixes: Appeal for alternative fix must first be in Score Correction Request. Coach certifies team didn't share/receive fix info, actually tried it, how found, detailed actions. Script failures not considered.
-Format/Documentation: Online form. Supporting docs (principal letters, news reports for closures) emailed to cpoc@uscyberpatriot.org by deadline.
-Notification: Coach emailed results.
-Results Publication: CyberPatriot website, Results Email. Courtesy copy to coaches before public posting; refrain from early social media sharing.
-4003 | Penalties (for any rule violation/misconduct):
-Minor: Score reduction, time disadvantage, round score invalidation.
-Major (Disqualification): Ineligible for awards/recognition. May lead to:
-Suspension: Temporary removal.
-Termination: Removal for entire season.
-Ban: Permanent disqualification. Reinstatement at National Commissioner's discretion.
-Other: Affecting score/advancement. Non-cooperation in inquiry may incur penalties.
-Replacement Teams (for National Finals): If advanced team cannot compete, National Commissioner may choose replacement (next qualified, Platinum Tier State Rd competitor).
-4004 | Advancement:
-Geographical areas: US states, DC, Canada, At-Large (US territories, other nations, DoDEA).
-Open Division:
-R1 & R2: Qualification.
-State Round: All eligible. Tiers (Platinum-top 30%, Gold-mid 40%, Silver-bottom 30%) based on cumulative R1+R2 scores. Tiers permanent. Only Platinum eligible for NF.
-Semifinals: Top 25% per tier from State Rd scores. State/DC/CAN/At-Large wildcards if not represented. Score >0 required.
-National Finals: Top 12 Platinum from Semifinals scores. Max 2 teams per school/org/coach.
-All Service Division:
-R1 & R2: Qualification.
-State Round: All eligible. Tiers (P-30%, G-40%, S-30%) per category (Army JROTC; Navy/CG JROTC; MC JROTC; AF/SF JROTC; CAP; USNSCC) based on cumulative R1+R2 scores. Only Platinum eligible for NF.
-Semifinals: Top 25% per tier from State Rd scores. Category wildcards (if <6 teams from category advance). Score >0 required.
-National Finals: 13 Platinum teams: Top 2 per category + 1 highest national score not otherwise advanced, from Semifinals scores. Max 1 team per school/org/coach.
-Middle School Division:
-Introductory Round: Qualification.
-State Round: Elimination. All eligible.
-Semifinals: Top 60% based on cumulative Intro + State Rd scores.
-National Finals: Top 3 from Semifinals scores. Max 1 team per school/org/coach.
-4005 | Awards (list published on website):
-AFA State Awards (hard copy): Must compete in State Rd, score >0. Platinum > Gold > Silver.
-Open/All Service: Top 3 overall per state/DC/CAN/At-Large based on State Rd score.
-Middle School: Top 3 overall per state/DC/CAN/At-Large based on cumulative Intro + State Rd scores.
-State Tier Awards (digital cert.):
-Open/All Service: Top 3 Gold Tier, Top 3 Silver Tier per state/DC/CAN/At-Large.
-Middle School: No tiers, no tier awards.
-Semifinal Awards (digital cert.): All qualifiers get certificate.
-Open: Top 20 per tier.
-All Service: Top 5 per category per tier.
-Middle School: Top 25 based on Semifinals scores.
-National Finals Awards (hard copy cert.): All qualifiers.
-Top 3 scoring teams per division (cumulative NF scores) earn trophy.
-Additional awards/scholarships may be presented.
-Appendices (Summaries):
-Appendix I | Coach Agreement: Outlines coach's commitment to competitor access, academic program guidance (no offensive techniques), competition management (integrity, rule adherence), and logistics.
-Appendix II | Standards of Conduct: For adults (coaches, mentors, assistants). Mandates respectful treatment, ethical emphasis, avoiding lone situations with minors, positive reinforcement, reporting abuse, and refraining from harmful behaviors (tobacco, alcohol/drugs, physical/emotional abuse, profanity).
-Appendix III | Parental/Guardian Approval (Sample): Form for parents to permit child's participation and unsupervised coach access during activities.
-Appendix IV | Competitor Safety and Protection: Coach's top priority. Considers facility security, hazards, lighting, electrical safety, first aid, emergency services, vehicle safety, adult supervision. Incidents reported per local procedures, then to Program Office for significant events.
-Appendix V | Coach Change Requests:
-Alternate (1 round): Via online form by coach/verification official. Requires Alternate's agreement to rules, verification of unsupervised minor access approval.
-Permanent Change: Coach/verification official emails info@uscyberpatriot.org with new coach info. New coach needs volunteer account.
-Appendix VI | Competitor Code of Conduct: Competitor's pledge for ethical online actions, no hacking/offensive skills development, no illegal copying, no sharing team-specific info (UID, report, answers), no inappropriate sites, no cyberbullying, follow rules/guidance, no tampering with competition systems, report issues to coach, no deception, understanding violation consequences, furthering cybersecurity understanding.
-Appendix VII | CyberPatriot 18 Competitor Post-Competition Round Statement: Form for competitors to affirm adherence to rules, deletion of materials, no unauthorized sharing/receiving of credentials/answers, and no unauthorized system access/manipulation. Submitted to coach.
-Appendix VIII | Sponsors and Sponsorship: National sponsors contribute significantly and receive recognition. Local sponsors may support teams but have logo use restrictions, especially at National Finals. Inquiries to info@uscyberpatriot.org.
+Teams are CyberPatriot's basic participant groupings.
+Team Composition (Members)
+Coach: Approved adult leader. Registers team, supervises. Sole point of contact.
+Verification Official: Org administrator verifying coach approval for unsupervised minor work and youth protection training.
+Competitors: 2-6 student participants. No U.S. citizenship requirement.
+A. Required Members – Each team needs a coach, one-time verification official, and at least two competitors. Ineligible otherwise.
+B. Optional Members – Technical mentors and team assistants are not required but recommended.
+Technical Mentor: Adult volunteer with technical knowledge to assist teaching competition training.
+Team Assistant: Adult volunteer assisting coach with non-technical support.
+Mentors/assistants need a social security number for background check.
+Team Member Roles Explained
+A. Coach – Required adult for team registration and student competition.
+One coach of record per team (non-negotiable). A single coach may coach up to five teams, supervising all CyberPatriot activities. Coaches assist other teams only as registered technical mentors or team assistants. Co- or assistant coach roles don't exist.
+Coach requirements:
+Eligibility: Adult (18+ by registration deadline), not competitor/high school student, not CyberPatriot Program Office member. Vetted/approved by verification official. Agrees to Coaches’ Agreement/Standards of Conduct (Appendices I, II).
+Additional:
+a. Sponsor/Partner/AFA Employees: Need consent from designated CyberPatriot rep. Former AFA CyberPatriot Program Office employees ineligible for 3 years post-employment.
+b. Competition Volunteers/Temporary Staff: National Finals volunteers, Competition Administration Team, CPOC staff, other volunteers may not coach/mentor/assist during volunteering season or for 1 year after.
+c. CAP/USNSCC: Senior member/adult leader in good standing. Complete Cadet Protection Program Training (CPPT). Chain-of-command authorization for unsupervised minor cadet access.
+d. Home School: In areas with oversight, verified by co-op official/teacher verifiable by legally recognized accrediting agency. Also need authorization from regulating agency/parents for unsupervised minor access; written/signed parental consent forms (Appendix III) for season; certified youth protection program completion (e.g., Boy Scouts of America’s free Youth Protection Training).
+Responsibilities:
+a. Competitor Protection: Primary responsibility. Controls minor access to protect them, respects parental prerogatives, follows legal requirements during all activities. Accountable for mentor/assistant interactions. Responsible for safety (Appendix IV).
+b. Competition Integrity: Upholds fairness/integrity by ensuring no outside assistance (Chapter 3). May clarify rules/permissible actions.
+c. Official Point of Contact: Only coaches receive official emails; responsible for dissemination. Must monitor email. Role cannot be delegated unless technical mentor is Coach Alternate. Only coach requests team/competitor info changes.
+No Compensation – Volunteer. No AFA compensation. AFA has no position on gifts received by volunteers.
+Coach Changes – Temporary unavailability: designate coach alternate for a round. Prolonged unavailability: coach/verification official initiates coach of record change.
+a. Coach Alternate – For one-off scheduling conflict/emergency. Requires CyberPatriot Program Office approval case-by-case, vetted/approved by original coach’s verification official. Acts as coach only for approved round, needs re-approval for future rounds (Appendix V).
+b. Coach of Record Change – For multiple rounds. Contact CyberPatriot Program Office to transfer team to another approved adult (Appendix V).
+B. Verification Official – All coaches vetted/approved to work with minors by an organizational verification official.
+• School teams (incl. JROTC): Verified by principal, assistant/vice principal, supervisor, or department head. If coach lacks org-issued email, only principal/assistant/vice principal verifies.
+• CAP: Unit commander or deputy commander.
+• USNSCC: Regional National Headquarters Representative or higher officer.
+• Scouting/other approved orgs: Organization head or supervisor.
+• Coaches cannot be their own verification official.
+Critical functions:
+• Verifies coach approved for unsupervised minor work, completed required youth protection training.
+• Validates coach status (school employee, approved volunteer, approved relationship).
+• Verifies organization registers team, follows all rules.
+• Immediately notifies CyberPatriot Program Office if coach fitness is questioned.
+C. Competitors – Two to six competitors per team; up to five compete simultaneously. Coach discretion for substitutions during online rounds. One team per competitor per season.
+Eligibility:
+a. Open Division: Enrolled in participating high school/senior high program (or equivalent). Commissioner may grant composite Middle/High School team exception. Non-school teams: current, direct affiliation with host org, enrolled in high school/senior high. Registered to only one team. JROTC/CAP/USNSCC cadets may compete on Open Division if not on All Service team; not identified as unit/squadron member.
+b. All Service Division: Enrolled in high school/senior high program (or equivalent). Commissioner may grant composite Middle/High School exception. Non-school teams: enrolled in high school/senior high. Fully enrolled in JROTC/CAP/USNSCC before any round. Registered to only one team. Part of same unit/squadron, unless Commissioner grants composite team exception. Remain enrolled in program for season duration.
+c. Middle School Division: Enrolled in middle school/junior high program (or equivalent). Homeschool, USNSCC, CAP, other orgs may field middle school teams if all members equivalent to middle/junior high. Non-school teams: current, direct affiliation with host org, enrolled in middle/junior high.
+Responsibilities: All competitors must abide by CyberPatriot Competitor Code of Conduct (Appendix VI) and act ethically when logging onto a competition image.
+D. Technical Mentors – Optional (recommended) technical advisors. One or more chosen by coach. Register on website, officially linked to teams. No limit on teams assisted or mentors per team.
+Eligibility: Adult (18+), not competitor/high school student. Pass CyberPatriot Program Office background investigation (requires SSN). Background check not substitute for org’s. Agrees to Standards of Conduct (Appendix II); must not teach hacking/offensive tactics. Meets with team only with coach approval. Officially linked via dashboard.
+Suggested Responsibilities: No minimum time. Can be guest lecturer or full-season trainer. Advises coach on skills, develops cyber defense/ethics teaching plan with coach, teaches/assists competitors.
+Coaches as Mentors: Coach may mentor other teams only if registered as technical mentor. Unregistered coaches ineligible for mentor awards.
+No Compensation – Voluntary, unpaid. AFA no position on gifts.
+E. Team Assistants – Adult team members providing non-technical support/encouragement. Not required. Register on website, officially linked to teams.
+Eligibility: Adult (18+), not competitor/high school student. Pass CyberPatriot Program Office background investigation (requires SSN). Background check not substitute for org’s. Agrees to Standards of Conduct (Appendix II). Meets with team only with coach approval. Officially linked via dashboard.
+Suggested Responsibilities: No minimum time. Varies; examples: competition setup, snacks, transportation.
+Coaches as Assistants: Coach may assist other teams only if registered as team assistant.
+No Compensation – Voluntary, unpaid. AFA no position on gifts.
+Team Identification
+Standardized for recognition, scoring, anonymity, clear communication.
+A. Team Identifiers (Credentials)
+Team Numbers: Assigned during registration (e.g., 15-0001). Primary identifier for scoring. Same for entire season.
+Unique Identifiers (UIDs) & Login Credentials: Each team assigned UID for images. Coaches find 12-digit alphanumeric code for scoring server validation on dashboard before each round. NetAcad Challenge login examples in instructions. UIDs/credentials not emailed.
+Organization Name: School teams (incl. JROTC) use school name. Others (CAP, USNSCC) use organization name. Composite teams: name assigned by approving authority.
+Unofficial Names (Nickname): Optional. Must be in good taste, subject to veto. Coaches ensure nicknames appropriate (no pro-hacking/offensive language). Not used for official identification.
+B. Anonymity – Teams remain anonymous (except team number), unless performance info (scores, rankings, advancement) is published.
+Online Rounds Exceptions: Top-scoring teams' names/numbers/scores may be listed on public scoreboard. State Round award/certificate winners' official name, nickname, coach name published (unassociated with scores).
+National Finals Exceptions: Advancing teams have photo, official names, nickname, coach name, competitor names published (unassociated with scores) in CyberSentinel, website/social media, program, press releases, sponsor/government communications. Award winners: official names, competitor names, awards, rankings published. Other Finalists' rankings not published.
+1004 | CyberPatriot Centers of Excellence (COEs)
+Recognized as leading STEM and cyber education institutions/organizations.
+1005 | CyberPatriot Rules Advisory Group (CRAG)
+Advises National Commissioner on rules/procedures. Coaches/mentors of all levels may join. Chaired by Senior Director of Competition Operations. Contact cpoc@uscyberpatriot.org.
+Chapter 2 | Registration Process and Requirements
+2001 | Volunteer Accounts
+Required for adults (18+) wishing to be a coach, technical mentor, or team assistant.
+NOTE: Student competitors SHOULD NOT create volunteer accounts.
+2002 | Coach Registration and Team Creation
+Coach registration initiates team creation. Creator of team (from volunteer account) is automatically assigned as coach. Only intended coach should create team.
+A. Creating Teams – Adult volunteer/coach can register up to five teams via “Create Team” on dashboard. Teams can be from same/different schools/orgs/divisions, provided:
+Coach completes “Create Team” form per team (up to five times).
+Verification official is part of registered organization.
+Verification official separately verifies coach for each registered team.
+B. Team Verification and Approval – On form submission, verification official gets email to verify info. Once verified, team queues for CyberPatriot Program Office approval. Coach receives email with approval, fee payment, and competitor registration instructions.
+Detailed instructions: https://www.uscyberpatriot.org/Documents/Team%20Registration%20Instructions.pdf.
+C. Registration Deadline – CyberPatriot 18 (2025-26) opened April 1, 2025. Deadline to register new team: October 1, 2025. Teams must be verified/approved by first Competition Round, and pay fee by November 5, 2025.
+2003 | Technical Mentor and Team Assistant Registration
+Volunteers may register before team assignment. Support teams physically or virtually. No deadline.
+A. Becoming a mentor/assistant – Two-step process:
+Mentor Application: Complete form on dashboard.
+Background Check: Required by CyberPatriot Program Office (requires SSN) via PeopleFacts, Inc. Not a substitute for org's checks.
+C. Linking with a Team – After background check approval, mentor/assistant appears on list for approved CyberPatriot teams. Coaches invite/contact. Mentors/assistants use “Find Team” on dashboard.
+Availability – Add/remove self from viewable list by changing availability status via “Edit Profile.”
+Additional instructions: https://www.uscyberpatriot.org/Documents/Mentor%20Registration%20Instructions.pdf.
+2004 | Competitor Registration
+Coaches must add competitors to online rosters by 11:59 PM ET on October 22, 2025. Only after team verification/approval.
+A. Registering a competitor – Coach selects “Register Competitor” from dashboard “Options.” Provide name, email, T-shirt size.
+Parental Approval – Coach checks box for oral, written, or tacit consent. CyberPatriot Program Office does NOT need records beyond checkbox. Parental consent forms NOT submitted (Appendix III sample available).
+B. Competitor Questionnaire – After roster addition, competitor emailed questionnaire link. Strongly encouraged, not required. For internal demographic data only.
+2005 | Team Registration Fees
+Registration Fees
+Complete when fee paid (or waived). Teams can participate in Exhibition, Training, Practice Rounds without paying. Fee due when team competes in a scored Round (Round 1, 2, Introductory, State, Semifinals).
+Fees due by published deadline.
+Open: $225/team (Waivers for Title I schools, all-girl teams).
+All Service: Waived (agreement with National HQ).
+Middle School: $175/team (Waived for CAP, Navy League Cadet Corps; waivers for Title I schools, all-girl teams).
+*20% off for teams registered by July 1.
+Fee Exemptions (Waivers)
+• Title I schools (underfunded): Coach submits waiver request from dashboard (post-approval), provides Title I documentation to info@uscyberpatriot.org.
+• All-girl teams: Coach submits waiver if team is all female competitors (after roster added). Approved after competitor registration deadline.
+Chapter 3 | Online Competition Round Rules
+3001 | Overview
+Teams compete online by fixing vulnerabilities, hardening systems, and other tasks. Open, All Service, Middle School Divisions compete during same weekends, scored only within their divisions.
+CyberPatriot assumes highest ethical standard. Rules prevent misconduct perception, ensure fair competition. Coaches resolve rule questions with CyberPatriot Program Office beforehand. Rules apply throughout season, including events with CyberPatriot images/tasks. Violations may incur penalties.
+3002 | Official Competition Communication
+Email is official/primary channel from CyberPatriot Program Office to coaches (info@uscyberpatriot.org, cpoc@uscyberpatriot.org).
+During a round, email is not helpdesk/technical support or for online forms/requests/reports. Official info posted in CPOC tech support chat, image scoring report, or CyberPatriot website if email issues.
+Competition Emails Before Round
+Two emails before, two after each online round. Only coaches receive; responsible for receipt. Copies on dashboard. Contact CyberPatriot Program Office if not received in time; non-receipt is not appeal grounds.
+A. Download & Instructions Email: By Monday prior, coaches receive image download info, Round Instructions, Image download links, Cisco NetAcad/Other Challenge info, Technical support info.
+B. StartEx Email: 9:00 AM ET first day of round, sent to coaches with Image decryption passwords, Instruction changes.
+Competition Emails After Round
+A. Preliminary Score Email: For all rounds, ensures score correctness before release. Notifies coaches of preliminary scores, sets Preliminary Score Discrepancy Reports deadline. No reports considered after deadline.
+B. Results Email: Release depends on inquiries/appeals. Goal: 8 working days post-round. Contains:
+Link to scores.
+Link to general image vulnerability categories (e.g., Access control, Insecure services, Malware, Firewall, Forensics; specific vulnerabilities not published).
+Technical Support
+CPOC staff provides technical support during competition windows (all times Eastern).
+A. Official Technical Support Requests (during rounds): Only via:
+CPOC Tech Support Chat (WebEx): Preferred. Access info in StartEx Email.
+Telephone: +1 (877) 885-5716.
+B. Email: Not official tech support during a round. Requests via email won't receive official consideration. Use email only when requested by tech support. Score Correction Requests, Preliminary Score Discrepancy Reports, appeals not accepted by email.
+Technical/scoring questions: cpoc@uscyberpatriot.org (outside rounds).
+Registration/administrative questions: info@uscyberpatriot.org.
+Emails from cpoc@uscyberpatriot.org / info@uscyberpatriot.org broadcast critical info.
+C. Collaboration Tools: CyberPatriot staff may use Cisco WebEx, Microsoft Teams, etc., for complex technical issues. Teams may request use of their approved tool.
+Other Information and Notifications
+Info may also be posted on scoring reports (in image), CyberPatriot website, WebEx tech support chat banner, social media (Facebook, Twitter, Instagram), or public scoreboard.
+3003 | Competition Time and Date Restrictions
+Official Time: Network Security Challenge (images) scoring server time.
+Competition Rounds
+A. Competition Round: Scheduled contiguous dates with identical challenges. Typically a weekend. Divided into windows/periods.
+B. Competition Window: Specified time competition is conducted and support available. Teams shall not compete outside designated windows. Windows (all ET):
+Thursday 9 AM - 10 PM ET
+Friday 9 AM - 11:59 PM ET
+Saturday 8 AM - 11:59 PM ET
+Sunday 10 AM – 8:00 PM ET
+If another competition day is used, window is 9:00 AM – 5:00 PM ET unless specified.
+C. Competition Period: Single, four-consecutive-hour period for team to complete all challenges/tasks. Coach chooses any four-consecutive-hour period within a window. Coaches don't inform CyberPatriot Program Office of chosen time.
+Start Time: Period begins when team starts first image (in VM player) within window. NOT when UID entered. Other challenges (NetAcad, Boeing) start only after first image opened. If only NetAcad, must still open image, enter UID, connect to server to start time. Shut down/delete image afterward to avoid overtime penalties.
+End Time: Period ends max four consecutive hours after first image powered on (in VM player), regardless of image time/running time on Scoring Report. All challenges/tasks must end.
+Rules apply to all teams, including distributed competitors.
+D. Coach’s Responsibilities:
+Youth protection is primary. Ensure safe environment.
+Coach present (in-person/virtually) for entire competition period.
+Ensure competitors avoid online activities (e.g., hacking, gambling) against Code of Conduct (Appendix VI).
+Obtain team’s UID/login credentials from dashboard.
+Register team in Cisco NetAcad, obtain login credentials via published procedures. Recommended before round.
+If applicable, check team’s tier (high school only) to ensure correct images/tasks.
+E. Restrictions:
+One four-consecutive-hour period per round for ALL challenges/tasks.
+Period shall not begin/end outside window/round.
+Entering UID in utility is first action when opening image (after Competitor’s Agreement). UID must be from dashboard, validated with scoring server.
+Start other challenges only after first image. End all challenges/tasks before period ends.
+No opening image/challenge before period begins. No "sneak peeks" or software tests, except downloads, checksums, connection test.
+No opening/powering on/interacting with images after period ends.
+Scoring Report page times are reference only. Team responsible for completing ALL challenges/tasks (incl. Cisco/Boeing) by end of period (starts when FIRST image opened).
+Technical issues not result in extra time unless competition-wide.
+Alternate Competition Dates
+A. Round Extension – Commissioner may extend round for extreme weather/conditions preventing many teams.
+B. Emergency Date – Only coach/alternate may request for verified emergency via online Appeals Form (link typically in Start-Ex email). Approved dates depend on staff availability. Coach/alternate must request via Appeals Form, goes through appeals.
+CyberPatriot Program Office won't consider schedule conflicts. Used only for: 1. Severe weather/widespread emergencies. 2. Unplanned coach hospitalization. 3. Other extreme circumstances, case-by-case.
+Deadline: 4:00 PM ET first Tuesday after original round's first scheduled day, unless specified. Teams missing deadline won't get emergency date.
+C. Competition-Wide Postponement – For national/regional emergency or competition-wide issue, Commissioner may postpone. Postponed round occurs weekend following original dates (Fri, Sat, Sun) unless otherwise designated. Teams should plan for backup date.
+3004 | Team Numbers, Unique Identifiers, and Competition Login Credentials
+Teams may not change registered division after Round 2.
+Using team number, UID, or login credentials by anyone outside assigned team is prohibited (incl. teams/members under same coach/mentor/org/school).
+Once team correctly enters UID, don't change/modify it unless coach notifies CPOC via Score Correction Request (other means not substitutes).
+UIDs/credentials on coaches dashboard. Not emailed. Coach registers/retains Cisco NetAcad/Boeing/other credentials. Instructions in emails to coaches.
+Coaches check dashboard before competition, copy UIDs/credentials. If cannot access, contact CPOC. Failure to access/delay is not appeal grounds.
+3005 | Technical Hardware and Software Specifications
+Current specs: https://www.uscyberpatriot.org/competition/technical-specifications.
+Must be followed. Failure to meet specs is not appeal grounds or for extra time.
+3006 | Internet Connectivity to Competition Servers and Websites
+Teams responsible for internet connectivity throughout. Image/challenge not worked offline without ever connecting to server. Image/challenge without valid UID/credentials will have score lacking history, possibly leading to disqualification.
+Mandatory Website Access
+A. CyberPatriot Website – Access to www.uscyberpatriot.org and its pages is mandatory. Required websites list at https://www.uscyberpatriot.org/competition/technical-specifications.
+B. Coaches Dashboard – Coaches safeguard up-to-date screen capture/printed copy of team info to mitigate outages.
+Competing During a Network Outage
+A. Continuation of Challenges: If network outage occurs, competitors continue on images while waiting. Scoring engine tracks progress when restored. Team responsible for backup internet plan.
+B. Network Backup Plan: Include network access (e.g., cell hotspots) and alternate competition space (e.g., pre-arranged library/residence with adult supervision) if needed. Alternate space must be coach-deemed safe within org policies.
+3007 | Coach Supervision and Oversight
+A. Coach Supervision: Coaches supervise teams for entire competition period. Minimum:
+Coach physically present when teams compete in person.
+If coach cannot be present, Coach Alternate must be requested by coach/verification official and approved by CyberPatriot Program Office.
+Distributed Team Supervision: Coach/Alternate must supervise distributed teams. Required minimal:
+a. Coach speaks directly (two-way video/voice) with each competitor at least once to check well-being/status. Chat/voicemail/texting insufficient.
+b. Coach virtually present/available via digital/audio/video for entire period.
+c. Competitor Post-Competition Round Statement (Appendix VII):
+Competitors provide coach electronic/hard copy for each round.
+Deadline: 11:59 pm ET last scheduled day or team’s Emergency Date.
+Coach maintains season's statements until February 15.
+B. Oversight Visits: If needed, coaches allow CyberPatriot staff/AFA officials to visit competition areas/spaces to observe. Visit doesn't relieve coach authority/responsibilities.
+C. Staff System Entry: During competition, CyberPatriot Program Office staff may request to view systems for oversight/admin/troubleshooting. Staff won't change systems. Teams allow immediate access.
+3008 | Competition Areas, Spaces, and Interaction with Other Teams
+A. Competition Area: Location where one team competes within an area (physical/virtual).
+Control: Coach (or approved alternate) must be present (onsite) for in-person rounds. For CyberPatriot 18, coaches/approved alternates of distributed teams must be available for communication.
+Multiple Teams: If area has multiple team spaces, coaches/alternates ensure no purposeful/inadvertent communication/collaboration. Examples: keep teams far apart/in separate rooms, minimize discussion volume, notes visible only to individual teams.
+Approved Virtual Teams: Follow same sharing/access rules as physical teams (incl. single image connection). Virtual areas/spaces meet supervision/physical area requirements.
+B. Competition Space: Location where one or more teams compete (e.g., school, home, lab).
+C. Interactions with other teams: During periods, members of different teams in same area shall not communicate. Independent observers must not communicate with/interrupt competitors or threaten integrity/safety.
+Non-competing teams/members/coaches/mentors may not observe competing teams. Applies to already competed, currently competing, or later competing teams. For safety issues, if non-competing teams in same area, coaches obscure view/limit competing team discussion hearing.
+Teams/members/coaches/mentors shall not attempt to learn another team’s information from members, communications, data, documents, or systems.
+For flexibility, teams may compete:
+• In person as a group.
+• Distributed at homes/facilities.
+• Hybrid of in-person/distributed.
+Note: All competitors on a team must compete in the same period.
+3009 | Sharing of Competition Materials
+Coaches are entrusted with copyrighted competition materials (images, software, docs, websites, info). Treat as examination material. Control images, passwords, UIDs, info so used only in team’s space/area.
+Coaches may distribute materials to distributed competitors only if they complete Competitor Post-Competition Round Statement (Appendix VII). Coach is responsible for direct distribution, not delegated to competitors. Competitors may not keep/retain materials after period, or distribute/share at any time outside team.
+Official Answers Released After Rounds
+CyberPatriot Program Office may release some answers/solutions after a round. These are public, may be shared/stored. This rule doesn't allow collection/distribution of materials, scoring reports, info prohibited by other rules. Teams/competitors may not share solutions, scripts, or how-tos with other teams.
+Rules Against Sharing Information
+To avoid competitive advantage, competitors only share images/info with their team members. Participants must:
+a. Structure area/use procedures to prevent other teams gaining useful info/advantage. In separate rooms, competitors not enter another team’s room (except for safety/health/protection). Applies to distributed teams; coaches ensure spaces meet this if other teams compete in same home/facilities.
+b. Not required to have only single connection to each image. Console logins, RDP, SSH, etc., may be used. However, multiple instances of same image simultaneously is not permitted.
+c. Strictly limit distribution of images/software to their teams. Coaches ensure images/challenge info (incl. NetAcad materials, Boeing images/materials) are deleted after each round per email. Coaches supervise deletions with Competitor’s Post-Competition Statement (Appendix VII). Statements collected by coach, forwarded to CyberPatriot Program Office if requested.
+Note: Images are property of Air & Space Forces Association, not participants.
+d. Not share info about images/challenges with anyone outside team (incl. other teams from same school/org).
+e. Not transfer images to non-registered CyberPatriot participants (violates End User License Agreement).
+f. Work only on images assigned to their team.
+g. Ensure images/passwords not transferred outside team.
+h. Not assist or provide unfair advantage to teams not yet competed or actively competing.
+i. Not post, teach, email, store, or share answered/unanswered quizzes, questions, challenges, vulnerabilities, info from within images/competition websites (e.g., www.netacad.com), scenarios, webpages, readme.txt, documents. Screenshots of images or Scoring Report are strictly prohibited.
+j. Not seek, search, request, receive, copy, paste, or use answers/fixes from any source other than their team before, during, or after their period.
+k. When round complete, delete images, software (e.g., Packet Tracer), and ensure competitors delete images per email guidance.
+Examples of Information Sharing Violations
+Include:
+a. Passing vulnerabilities/info/answers from competed/competing team to uncompeted team.
+b. Posting/re-posting image info, software, answers on social media, blogs, websites, text/email—even after round.
+c. Using present/prior round image/software for training.
+d. Requesting answers/assistance on blog/social media.
+e. Teaching/briefing image/task vulnerabilities/answers to anyone not competed.
+f. Teaching/briefing image/task vulnerabilities to other competed teams, even with same coach/mentor.
+g. Team from one tier/division viewing/training on another’s images/tasks.
+h. Assisting another team with image/task.
+i. Posting competition document/quiz with/without answers.
+j. Sharing screen captures of images/contents.
+k. Discussing/sharing answers with other teams at same school/org.
+l. Conducting a “Hot Wash” for multiple teams during/after round.
+m. Sharing audio/video/photo info from another team’s periods.
+3010 | Outside Assistance
+Assistance from outside team's competitors prohibited during rounds. Includes direct/indirect advice, suggestions, hands-on, electronic communication (email, blogs, forums, Q&A, social media). Questions with challenge/task verbiage/problems may not be posted to any website. Answers/solutions found online/other means shall not be used; considered copying.
+Coaches, mentors, assistants may only assist teams with:
+a. Administrative issues before image opened.
+b. Entering UID and Cisco NetAcad Challenge login credentials.
+c. Timekeeping.
+d. Local area network outages/connectivity issues outside image.
+e. Host system issues unrelated to image.
+f. Dangerous/threatening situations needing adult intervention.
+g. Maintaining team’s saved scoring data at period end.
+Registered Competitors
+Competitors responsible for team performance; may NOT receive/request assistance outside team's competitors. Once period begins, coaches/mentors/assistants/other competitors/non-team members shall not coach/assist/collaborate/advise until period completion.
+a. Only REGISTERED competitors shall compete with team.
+b. Only verified/approved teams are eligible. Unverified/unapproved coaches won't receive emails.
+c. No fewer than two, no more than five competitors may compete at a time.
+d. Sixth registered competitor may substitute for any 2-5 competing at coach's discretion. Once substituted, removed competitor may not return that round.
+e. Teams without all registered competitors by deadline will have scores withheld until officially added.
+Substitutions / Alternate Competitor
+Non-competing team members (e.g., sixth member) may observe from space but shall not advise/assist until substituted or competition ends. Substitutes may not be advised by coaches/mentors/non-team members.
+Substitutions are one-time per round. Once substitute enters, exiting competitor may not reenter that round or assist.
+3011 | Allowable Resources
+Internet Resources
+During rounds, Internet resources (FAQs, how-to guides, forums, company websites, docs, software, scripts, registry exports) are valid if:
+a. Free access, not based on fee/membership/employment/purchase/credit card/monetary instruments.
+b. No token/smart card/common access card required.
+c. Publicly/reasonably available to all teams.
+d. Not specifically created for CyberPatriot competition/events with CyberPatriot software.
+e. Not staged at internet location by team.
+f. NOT created by other teams, coaches, technical mentors, or team assistants.
+Resources on CyberPatriot website also usable.
+Printed Material
+Printed/handwritten reference materials (books, magazines, checklists, etc.) permitted. Competitors choose/collect team’s printed material WITHOUT coach/mentor/other teams'/non-competitor assistance. Not required to reprint existing material.
+Electronic Media and Communication Devices
+Coaches ensure teams compete without outside assistance via electronic media/communication devices. Stipulations:
+A. Electronic Media: Inconsistent Internet connections: electronic media (memory sticks, flash drives, removable drives, CD-ROMs, similar storage) usable if:
+Media prepared by team’s competitors. Coaches/mentors/other teams/non-competitors shall not prepare.
+Authorized patches/updates/documents/data and software tools (this chapter) permitted on media.
+Offline Copy of Online Resources: Team may use offline copy of freely available Internet resource, subject to 4009.1 definitions/restrictions.
+B. Communication Devices: Cell phones, smartphones, wireless/wired devices allowed in space, but only for communication with team members, or emergency services/appropriate people in emergency. Not for sending/receiving/posting/sharing/obtaining competition info to/from outside team.
+C. Staging Resources: Teams shall not stage/access unauthorized resources on Internet, networks, systems, servers, storage, comms devices, etc. Emailing/transferring unauthorized tools/scripts/data to image host via another computer/device prohibited. Secure FTP sites not used.
+Software Tools and Scripts
+Competitors set up/use tools without outside assistance. Internet resource conditions apply.
+Tool Google-searchable on public Internet. ALL Internet users have access.
+WinMD5, 7-Zip, designated VM player authorized competition software. Teams using other tools not meeting specs compete at own risk (Chapter 3).
+Teams not delete/disable/tamper with anything in CyberPatriot folder or Scoring Service on images. Ensure antivirus/antimalware doesn't interfere.
+Scripts: Created by competitors not considered software tools.
+a. Use at own risk. Failure to gain points won't result in score correction/appeal.
+b. Not use scripts/software created by other teams, coaches, mentors, assistants.
+c. Teams from same school/org not collaborate/share scripts.
+d. Not update scripts based on info from other teams.
+e. Allowed online, but pre-written scripts prohibited (online/electronic/storage/paper) during National Finals (tests fundamental skills).
+Posting or Publicizing Resources
+Publicly posting/distributing/publicizing scripts, software, or resources created for CyberPatriot competition/events with CyberPatriot software is prohibited.
+3012 | Competition Image “One Instance” Rule
+Team may open only one instance of each image/competition software at a time during a round. Instance: each time opened in VM player, browser, other program. Applies to distributed teams.
+A. Instances of Different Images: If round involves multiple images/software, only one instance of each distinct image/software open simultaneously. Not have more than one instance of either image up at same time.
+[Image: Acceptable - one instance per computer; Penalty - two instances of same image on one computer]
+B. Shadowing: Shadowing, following, parallel ops, training, or any other use of second/more image/scoring client instance (online/offline) NOT permitted.
+C. Additional Compressed (NOT UNZIPPED) Image Downloads: Teams may place zipped download of each image on other host computers. If host fails/original corrupted/deleted, team uses compressed image. Coaches ensure zipped images deleted after round.
+D. Re-Opening Images: Second instance opened only if original corrupted/malfunctions. Original must be closed/deleted first. If not closed, scoring engine shows multiple concurrent instances (grounds for inquiry/penalty). Competition time continues regardless of new image opening time.
+E. Image Snapshots: Using snapshots/similar capabilities (incl. host system file copy for backup) allowed. May roll back to good state. Acceptable recovery if image corrupted/unusable.
+3013 | Offensive Activity and Tampering
+Participants shall not conduct offensive activity or tampering against other teams, competitors, systems/servers, documents, tasks, or non-participants to gain competitive advantage. Not actively seek/exploit vulnerabilities in images/systems/software/tasks at any time.
+Offensive activity includes:
+Hacking.
+Reverse engineering CyberPatriot/Competition software.
+Interference with another team’s ability to compete.
+Social engineering or posting false info to platforms.
+Tampering with, copying, or modifying images/scoring system/software/hardware components. Copying entire image as backup not permitted.
+Changing or tampering with host systems, clients, or timekeeping devices.
+Tampering with or modifying documents of other participants/CyberPatriot Program Office.
+Any other manipulation/deception of competitors, CyberPatriot Program Office, staff.
+Posting or communicating image/task vulnerabilities except to CyberPatriot Program Office.
+Penetration testing images/systems/tasks.
+Attempted/successful unauthorized entry or attacks on systems.
+DDoS or DoS attacks on participants/networks/systems.
+Using tools/commands to view answers in systems/websites.
+Warning: Unauthorized copying of scoring software components may damage copied systems.
+3014 | Inquiries for Rules Violations
+For apparent rule violations (Chapter 3), scoring, or irregularities, National Commissioner may appoint staff to inquire. Inquiry may include:
+Competition Materials: Special handling by coaches.
+a. Security: Coach of team/members under inquiry secures/prevents access to affected materials. Not opened/modified/tampered unless requested by investigator. Forensic analysis may occur.
+b. Transfer/Upload: Coach transfers/uploads materials to designated location when required.
+Interviews: Held in person, by phone, or other means.
+Questionnaires: Investigator may request participants respond to questionnaire.
+Chapter 4 | Challenges, Scoring, Advancement, and Awards
+4001 | Competition Challenges
+Online rounds contain scored challenges. Commissioner may direct additional challenges. Difficulty increases per round.
+Network Security Challenge: Main event. Cyber defense based on finding/fixing vulnerabilities in VM images. Teams may be asked about actions. Scored via CyberPatriot Competition System (CCS).
+a. Image: CCS scores discovery/remediation of vulnerabilities. Simulated OS on VM player, contains scoring software. OS types released before rounds.
+b. Coach Responsibilities: Strictly control passwords, images, software. Delete images after round; ensure competitors do so per email guidance. May maintain saved scoring data until appeal/inquiry results published, then delete.
+c. Accurate Host Time: Host clocks set to correct local time zone/time/date. Check before competing. DO NOT change time/date once round begins. Use https://www.time.gov.
+d. CyberPatriot Competition System (CCS): Internet-dependent system for online rounds. Client-based scoring on fixed/remediated/identified vulnerabilities. Score can reduce if fix undoes previous, or for penalty making system less secure/conflicting with scenario. Not all vulnerabilities scored.
+Cisco Networking Academy (NetAcad) Challenge: Timed event by Cisco Systems. Teams answer networking questions, complete virtual challenges with Packet Tracer. Middle School teams participate for score starting Introductory Round.
+a. Cisco NetAcad Website: Open/All Service/Middle School coaches/mentors access at season start. All networking challenge components here.
+Note: Competitors under 13 need parent/guardian permission to access. Coaches ensure permission.
+b. Scoring: Quizzes scored immediately. Packet Tracer exercises manually scored by Cisco engineers, then weighed with Network Security Challenge.
+Other Challenges: Commissioner may direct new challenges/components during season. May or may not be announced beforehand.
+National Finals Competition: In-person competition in Washington, D.C. Area. Includes Red Team (attacker) activity, more challenges than online rounds.
+Separate document on National Finals rules published after Semifinals. Until then, online round behavior rules hold true unless conflicting with Finals document.
+CyberPatriot Program Office monitors COVID-19; informs teams on Finals plans, prioritizing health/safety.
+4002 | Scoring
+Score-Governing Rules: Govern all online rounds, skill levels (tiers), divisions.
+A. Network Security Challenge: Scores based on vulnerabilities fixed/remediated, and questions about actions. Score can reduce if fix undoes previous protection.
+B. Cisco NetAcad Challenge: Scores based on quiz/virtual networking performance.
+C. Boeing Cyber-Physical Systems Challenge: Scores based on solving issues/protecting data/networks.
+D. Other Factors: Percentages, difficulty, vulnerability count, weighting NOT used to calculate Qualification Round scores, NOT considered for advancement.
+E. Weighting: Network Security Challenge most heavily weighted.
+F. Administrative Penalties: May be applied for rules/conduct violations.
+G. Tiebreakers: If teams tie for advancement (State Tier/Semifinals), all tied teams advance.
+Note: Final score time is last time achieved, even if previously achieved then changed.
+State Awards. If teams tie for State Award:
+Highest State Round Network Security Challenge (Images) score.
+Highest total Qualification Rounds score.
+Highest total Round 2 or Introductory Round score.
+Fastest time to team’s final State Round Network Security Challenge score (CPCS time official).
+Fastest State Round NetAcad Quiz submission.
+Fastest time to team’s final Round 2 or Introductory Round Network Security Challenge score (CPCS time official).
+Semifinals Awards. If teams tie for Semifinals Award:
+Highest Semifinals Network Security Challenge (Images) score.
+Highest total State Round score.
+Highest total Round 2 or Introductory Round score.
+Fastest time to team’s final Semifinals Network Security Challenge score (CPCS time official).
+Fastest Semifinal NetAcad Quiz submission.
+Fastest time to team’s final State Round Network Security Challenge score (CPCS time official).
+National Finals Advancement. If teams tie for National Finals advancement or award:
+Highest Semifinals Network Security Challenge (Images) score.
+Highest total State Round score.
+Highest total Qualification Rounds score.
+Highest total Round 2 or Introductory Round score.
+Fastest time to team’s final Semifinals Network Security Challenge score (CPCS time official).
+Commissioner’s Tiebreaker: If tie remains, coin toss or other Commissioner-designated method.
+Score Corrections
+Only coach/alternate may request. Two ways:
+Score Correction Request: Online form for coaches during round, for administrative/technical/scoring errors. Link in StartEx email. No answers provided; approved requests modify scores.
+a. Deadline: 11:59 PM ET scheduled round end day. If extension/Emergency Date, 11:59 PM ET on their competition day. Requests for warnings/suspected issues not accepted after deadline.
+Documentation: Submitted online initially without docs; CyberPatriot Program Office requests as needed. Documentation expedites. Valuable:
+a. Scoring Files: Data on Windows (C:\CyberPatriot\ScoringData) and Ubuntu (/opt/CyberPatriot/) images is best proof. Copy (not remove/alter) and email.
+b. Full-Screen Capture of Scoring Report*: Must be readable, include: Logo, Generated Time, Current UID, Fixed Issues, Penalties, Score, Copyright, Connection Status. Cut-off/modified captures likely not considered.
+*NOTE: Screenshots of Scoring Report submitted to CyberPatriot then deleted before next round. Keeping for other reasons is rules violation.
+c. Competition Scoreboard Screenshot: Helpful, not required.
+Preliminary Score Discrepancy Report: After online round, preliminary scores published. Only coaches/alternates submit online report for preliminary score discrepancies (e.g., incorrect scores, penalties, mix-ups, overtime, multiple instances). Not for technical issues that were Score Correction Requests. Link in Preliminary Scores email.
+a. Deadline: Published in preliminary score email, typically 1-2 working days after publication. Requests not accepted after deadline.
+Appeals Process
+Formal procedure for fairness considering unforeseen conditions impacting competition. NOT for advancing by other means. Includes Emergency Competition Dates. Submitted via online Appeals Form (published in round emails). National Commissioner is final authority.
+A. Deadlines: Unless published otherwise, appeals received by 4:00 p.m. ET Tuesday after round start.
+B. Originator: Only team’s coach/alternate.
+C. Grounds Not Considered: Issues from non-published VM software/versions; failure to receive email; ignorance of original dates; failure to secure alternate; failure to access space; scheduling conflicts; Internet connectivity issues not due to uncontrollable circumstances; IT dept. connectivity issues (firewall, Connection Test); hot spot/air card failure; changing default VM player settings; coach/team incorrect UID/Cisco Login after Q1; non-Windows host issues; Windows host/software not meeting specs.
+D. Scored Vulnerability Fixes/Remediation: Appeals for alternative fix/remediation must be certified by registered coach. First reported in Score Correction Request. If appeal valid, coach/alternate certifies on Appeals Form. Failure to score points using script(s) not considered.
+Statement certifying team members did not read/discuss/overhear/post/receive/share/publicize vulnerability fix/remediation with other team (incl. same org/school/coach).
+Statement certifying team tried the appealed fix/remediation.
+Description of how team found scored vulnerability.
+Full, detailed description of commands/actions for fix/remediation.
+E. Format/Documentation: Submitted in online Appeals Form (Start-Ex email). Must be supported with documentation (e.g., principal letters, news report). Documents not via form emailed to cpoc@uscyberpatriot.org before deadline.
+F. Notification: CyberPatriot Program Office emails coach appeal results.
+Results Publication
+Results/links published in:
+CyberPatriot website: www.uscyberpatriot.org
+Competition Round Results Email
+Coaches may get courtesy copy an hour before website. Participants requested not to post results on social media before website posting.
+4003 | Penalties
+Any/all penalties below may apply for rule violations, including misconduct:
+Minor Penalties: For minor rule violation, Commissioner may impose: Score reduction, time disadvantage in future rounds, invalidation of score.
+Major Penalties (Disqualification): For major rule violation, participant/team may be disqualified, ineligible for awards/recognition (incl. scholarships/internships), and subject to:
+A. Suspension: Term/time limit at Commissioner’s discretion.
+B. Termination: Immediate termination from program for entire season.
+C. Ban: Permanent disqualification. Most severe administrative penalty. Reinstatement at sole discretion of Commissioner.
+Other Penalties: May affect final score/advancement. Non-cooperation in inquiry may incur penalty (disqualification, suspension, ban) as determined by Commissioner.
+Replacement Teams: If National Finals team suspended/unable to compete/banned, replacement may be chosen at Commissioner’s discretion. Criteria:
+• Next qualified team per rules that didn't advance.
+• Teams not competing in Platinum Tier State Round ineligible for National Finals.
+• If designated replacement doesn't respond with required info/logistics, designation may be revoked.
+4004 | Advancement
+Details differences in advancement between Open, All Service, and Middle School Divisions.
+Note: Geographical areas for awards/advancement are U.S. states, District of Columbia, Canada, and At-Large teams (U.S. territories, other nations, incl. DoD Education Activity schools, considered one group).
+Open Division Advancement
+[Image of Open Division Advancement Flowchart]
+A. Round 1: Qualification. All teams may participate.
+B. Round 2: Qualification. All teams may participate regardless of Round 1.
+C. State Round: All teams eligible regardless of R1/R2; must compete within assigned skill tier (Platinum, Gold, Silver). Platinum harder than Gold, Gold harder than Silver. Tier placement permanent for season; no promotion/demotion/self-selection.
+Platinum: Top 30% Open Division teams by cumulative R1/R2 scores. Highest tier, only one eligible for National Finals. Always outranks Gold.
+Gold: Middle 40% Open Division teams by cumulative R1/R2 scores. Ineligible for National Finals. Always outranks Silver.
+Silver: Remaining 30% Open Division teams by cumulative R1/R2 scores. Ineligible for National Finals.
+Advancement to Semifinals solely on State Round score.
+D. Semifinals: Top 25% teams (within each skill tier) advance based on State Round scores. If state/DC/Canada/At-Large not represented in top 25%, single highest-scoring team from that state/region advances as wildcard. Teams must score > zero points to advance.
+Advancement to National Finals solely on Semifinals score.
+E. National Finals: 12 highest scoring* Open Division teams from Platinum Tier advance based on Semifinals scores.
+*NOTE: Finals advancement limited to two teams per school/organization/coach in Open Division. If qualifying team doesn't advance, next highest qualifies.
+All Service Division Advancement
+[Image of All Service Division Advancement Flowchart]
+A. Round 1: Qualification. All teams may participate.
+B. Round 2: Qualification. All teams may participate regardless of Round 1.
+C. State Round: All teams eligible regardless of R1/R2; must compete within assigned skill tier (Platinum, Gold, Silver). Platinum harder than Gold, Gold harder than Silver. Tier placement permanent for season; no promotion/demotion/self-selection.
+Tier placement also depends on category. Six categories: Army JROTC, Navy JROTC/Coast Guard JROTC, Marine Corps JROTC, Air Force JROTC/Space Force JROTC, Civil Air Patrol, U.S. Naval Sea Cadet Corps.
+Platinum: Top 30% teams from each category by cumulative R1/R2 scores. Highest tier, only one eligible for National Finals. Always outranks Gold.
+Gold: Middle 40% teams from each category by cumulative R1/R2 scores. Ineligible for National Finals. Always outranks Silver.
+Silver: Remaining 30% teams from each category by cumulative R1/R2 scores. Ineligible for National Finals.
+Advancement to Semifinals solely on State Round score.
+D. Semifinals: Top 25% teams (within each skill tier) advance based on State Round scores. If fewer than six teams from an individual category in top 25%, highest scoring teams from that category advance as category wildcard. Teams must score > zero points to advance.
+Advancement to National Finals solely on Semifinals score.
+E. National Finals: Total 13 All Service Division teams from Platinum Tier advance. Based on Semifinals scores, two highest-scoring teams* from each category advance. Additionally, highest national score team not in “top-two” category advances as wildcard.
+*NOTE: Finals advancement limited to one team per school/organization/coach in All Service Division. If qualifying team doesn't advance, next highest qualifies.
+Middle School Division Advancement
+[Image of Middle School Division Advancement Flowchart]
+A. Introductory Round: Qualification. All teams may participate.
+B. State Round: Elimination. All teams eligible regardless of Introductory Round.
+C. Semifinals: Top 60% teams advance based on cumulative Introductory/State Round scores.
+Advancement to National Finals solely on Semifinals score.
+E. National Finals: Three (3) highest scoring* teams in Semifinals advance. Only one team per school/organization/coach in Middle School Division can advance.
+*NOTE: Finals advancement limited to one team per school/organization/coach in Middle Division. If qualifying team doesn't advance, next highest qualifies.
+4005 | Awards
+Teams earn recognition for State and Semifinal Round performance. Winners published with scores on CyberPatriot website.
+AFA State Awards: Teams must compete in State Round and score > zero. AFA State Awards rank higher than State Tier awards, recognize top teams in state division.
+A. Open: Top three overall teams in each state, DC, Canada, At-Large receive hard-copy AFA State Award based on State Round score.*
+B. All Service: Top three overall teams (regardless of category) in each state, DC, Canada, At-Large receive hard-copy AFA State Award based on State Round score.*
+*High school tier difficulty varies; scores not adjusted. Platinum Tier teams always rank higher than Gold, Gold higher than Silver. Example:
+Team State Tier State Rd. Score Award(s)
+A AK Platinum 150 1st Place AFA State Award
+B AK Platinum 145 2nd Place AFA State Award
+C AK Gold 185 3rd Place AFA State Award AND 1st Place Gold Tier
+D AK Gold 160 2nd Place Gold Tier
+E AK Gold 158 3rd Place Gold Tier
+F AK Gold 155 --
+G AK Silver 200 1st Place Silver Tier
+H AK Silver 199 2nd Place Silver Tier
+C. Middle School: Top three overall teams in each state, DC, Canada, At-Large receive hard-copy AFA State Award based on cumulative Introductory/State Round scores.
+State Tier Awards
+A. Open: Top three Gold Tier and top three Silver Tier teams in each state, DC, Canada, At-Large receive digital State Round Tier Certificate (via email).
+B. All Service: Top three Gold Tier and top three Silver Tier teams in each state, DC, Canada, At-Large receive digital State Round Tier Certificate (via email).
+C. Middle School: No tiers, no tier awards.
+Semifinal Awards
+All qualifying teams (all divisions) receive Semifinalist certificate (via email). Additionally:
+A. Open: Top 20 scoring Open Division teams in each Tier receive digital certificate (via email).
+B. All Service: Top five teams in each category, per Tier level, receive digital certificate (via email).
+C. Middle School: Top 25 teams by Semifinals scores receive digital certificate (via email).
+National Finals Awards
+All National Finals teams (and members) receive National Finalist hard-copy certificate.
+A. Open: Top three scoring teams (cumulative scores, all National Finals events) earn trophy.
+B. All Service: Top three scoring teams (cumulative scores, all National Finals events) earn trophy.
+C. Middle School: Top three scoring teams (cumulative scores, all National Finals events) earn trophy.
+NOTE: Additional awards/scholarships may be presented for individual challenges/components.
+Appendices
+Appendix I | Coach Agreement
+Coaches are vital to CyberPatriot's success/expansion. Coach guides team prep, ensures competitor protection and competition integrity.
+As coach, I uphold high integrity, sportsmanship, honesty, good citizenship. I encourage fair, honest, constructive competition.
+Access To Competitors: Coordinate parental notification/permissions for minor participation per “CyberPatriot User Agreement and Privacy Policy.” Coordinate/approve student/cadet registration in CRM. Coordinate/approve technical mentor/team assistant involvement at coach’s discretion (in-person/online, from database or other sources). Abide by Standards of Conduct. Act as team’s sole point of contact.
+Academic Program: Deliver basic network security training as reasonably accommodated. Encourage competitor self-study/preparation. Not provide offensive techniques, hacking, or social engineering training.
+NOTE: Encouraging competitor central role (with adult guidance) enhances team cohesion/performance.
+Competition Management: Select/designate primary/alternate competitors per period from registered CRM competitors. Uphold integrity: max five competitors at a time, no external assistance. Ensure strict adherence to Rules Book/emails. Report technical/security issues ONLY to CyberPatriot Program Office; not publicize to prevent exploitation. Not aid/abet competitor hacking/offensive activity; report instances.
+Competition Logistics: Coordinate/support prep training/online rounds (location, computer equipment). Provide/coordinate competitor feedback to improve program. Agree to coordinate trip logistics (funded, except entertainment/personal) if team advances to National Finals. Agree to accompany team, be responsible for supervision/guardianship during travel/onsite at National Finals.
+I have read, understand, and agree to discharge responsibilities described to best of my abilities.
+Signature: _________________________________________ Date: ________________
+Appendix II | Standards of Conduct
+Working with youth is rewarding but requires special responsibilities. As CyberPatriot coach/mentor/assistant, I promise to strictly follow these Standards of Conduct.
+I will: Treat everyone with respect, patience, integrity, courtesy, dignity, consideration. Emphasize ethical internet/IT skills. As practical, avoid being alone with individual minor. Use positive reinforcement. Refrain from expensive gifts to minors without prior written parental/guardian approval. Report suspected abuse to law enforcement, school authorities, Child Protection Services as required. Cooperate fully in minor abuse investigation.
+I will NOT: Smoke/use tobacco in minors' presence. Use/possess/be under alcohol influence while working with team. Use/possess/be under illegal drugs influence. Pose health risk (e.g., contact when contagious). Strike/spank/shake/slap youth. Humiliate/ridicule/threaten/degrade youth. Touch youth in sexual/inappropriate manner. Use discipline that frightens/humiliates youth. Use profanity in youth's presence.
+I understand inconsistent action or failure to act as mandated may result in my removal and prohibition from future CyberPatriot participation.
+Signature: _________________________________________ Date: ________________
+Appendix III | Parental/Guardian Approval
+I, the parent/guardian of _______________________________, give permission for my child to participate in the CyberPatriot National Youth Cyber Defense Competition. I allow the team coach, ________________________________________, unsupervised access to my child during CyberPatriot activities. I take full responsibility for allowing the coach to interact with my child and for my child to learn cyber defensive skills taught.
+Signature: _________________________________________ Date: ________________
+Appendix IV | Competitor Safety and Protection
+Safety and competitor protection are CyberPatriot’s top priorities. Coach considers team health/well-being when choosing environment.
+Requirements: School, organization, local directives govern minor safety/protection and facility standards. Safety considerations for space: Facility Security, Crime Areas, Trip Hazards, Adequate Lighting, Electrical Safety, First Aid Kit, Emergency Services, Vehicle Safety, Slip areas, Unsupervised adult access in public facilities.
+Coaches mitigate safety issues via remedial action or warnings.
+Reporting Incidents: Follow school/organization/local reporting procedures. After notifying local authorities, coaches notify CyberPatriot Program Office for significant incidents: Missing competitor (last seen at event), injured competitor needing hospitalization, criminal act against participant/staff/supporter, severe weather/natural disaster affecting competitors/competition.
+Reports to info@uscyberpatriot.org or +1 (877) 885-5716.
+Appendix V | Coach Change Requests
+Coaches ensure minor protection and parental prerogatives, and preserve competition integrity. Assumed coach role implies these responsibilities.
+Coach Alternate Request (one round only): Submit via official online form (link in Download Instructions/StartEx emails). Only registered coach/verification official submits. If no reply 24 hrs prior, contact CyberPatriot Operations Center.
+Form URL: https://forms.gle/iT8TcuwakXXskKsh9. Valid for ONE round only.
+Requires: Registered Coach’s name, Alternate’s name/email, Alternate agrees to Coach’s Agreement/Standards of Conduct, Certification that coach/official verified Alternate authorized for unsupervised minor work per org policies.
+Coach Change Request (permanent): If coach of record unable to supervise several rounds, contact info@uscyberpatriot.org to transfer team to another approved adult.
+Request from existing coach of record. If unable, verification official submits. New coach’s name, email, team numbers provided.
+New coach must have existing (or create) CyberPatriot volunteer account.
+Appendix VI | Competitor Code of Conduct
+I will consider ethical/legal implications of my online actions in CyberPatriot.
+I will not attack/hack/penetrate/interfere with other systems/tasks, nor use defense skills for offensive skills.
+I will not illegally copy/distribute software/IP.
+I will not share my team's UID, scoring report, or image answers outside my team/coaches/mentors.
+I will not visit inappropriate websites while preparing/participating.
+I will not participate in/condone cyberbullying.
+I will follow CyberPatriot rules and my coach's guidance.
+I will not tamper with/modify/monitor for vulnerabilities/penetration test/manipulate any CyberPatriot competition/scoring systems.
+I will report technical/security issues to my coach for CyberPatriot Program Office; not publicize.
+I will not deceive/hoax/“prank” other teams via Internet/email/social networking.
+Violation means immediate dismissal from team, team disqualification.
+I will use participation to further cybersecurity understanding.
+Signature: _________________________________________ Date: ________________
+Appendix VII | CyberPatriot 18 Competitor Post-Competition Round Statement
+• Competitors may email coach from their address with typed name in signature.
+• Coaches may transfer to online document, but must have attributable email for each competitor, and space for name/round #/date.
+• In-person teams may print, have all competitors sign/date.
+STATEMENT
+I, (Type or print your name(s)) ________________________________________________________
+______________________________________________________________________________,
+followed all rules/Appendix VI of the CyberPatriot Rules Book, and round’s StartEx email rules, and did not assist or aid others who violated them during ___________________________.
+(Type or print round # or name)
+I deleted all competition images, software, documents, information, and did not distribute them beyond my team.
+I did not share my team’s login credentials/Unique IDs with others outside my team, nor did I request/receive/share/use another team’s credentials/Unique IDs before/during/after round.
+I did not attempt unauthorized entry into, reverse engineer, or pull answers from CyberPatriot Competition systems/software/websites/challenges using tools or other means, nor assist others.
+I did not receive/share/seek answers or other teams’ information about the round from persons/sources outside my team before/during/after.
+Team Number: 18 – _______________
+Signature: _________________________________________ Date: ________________
+Signature: _________________________________________ Date: ________________
+Signature: _________________________________________ Date: ________________
+Signature: _________________________________________ Date: ________________
+Signature: _________________________________________ Date: ________________
+Signature: _________________________________________ Date: ________________
+Appendix VIII | Sponsors and Sponsorship
+Air & Space Forces Association and CyberPatriot program carefully brand CyberPatriot. Sponsors must share AFA values and contribute significantly.
+National Sponsors: Provide resources for global CyberPatriot. Earn recognition in events, name association. Logos in literature/media. Sponsorship via CyberPatriot Program Office.
+Local Team Sponsors: May sponsor specific local teams; not use CyberPatriot logo in advertising. If team advances to National Finals or other event (not team competition), team shall not use local sponsor’s name/logo/identifying characteristics.
+For national sponsorship interest/info, visit www.uscyberpatriot.org or contact info@uscyberpatriot.org or +1 (877) 885-5716.
 End of the summary of the rule book----------------------------------------------------------------------
 CyberPatriot Wikipedia provided below----------------------------------------------------------------------
 From Wikipedia, the free encyclopedia
@@ -465,7 +829,7 @@ Start of CyberPatriot 18 competition schedule ----------------------------------
 CyberPatriot 18 (2025-2026) Competition Schedule
 ​​​
 
-CP17 competition timeline.png
+
 ​​
 ​​​TRAINING EVENTS ​
 EVENT
