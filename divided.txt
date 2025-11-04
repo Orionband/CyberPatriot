@@ -1,0 +1,281 @@
+CyberPatriot Wikipedia provided below----------------------------------------------------------------------
+From Wikipedia, the free encyclopedia
+AFA CyberPatriot
+Current season, competition or edition:
+Current sports event CyberPatriot XVII (2024–2025)
+
+Sport	Cybersecurity (Hardening and Defense) (Basic skills and hardening best practices (Online rounds and National Finals), Defending in RVB environment session (At the National Finals only))
+Founded	2008
+First season	CyberPatriot I (2008–2009)
+Commissioner	Rachel Zimmerman
+Administrator	Air Force Association
+Divisions	All Service, Open, Middle School
+No. of teams	All Service: 942, Open: 2160, Middle School: 921, Total: 4023 (CyberPatriot XVII - 2024–2025)
+Countries	United States and Limited International Countries
+Sponsor(s)	www.uscyberpatriot.org/Pages/About/Sponsors.aspx
+Related
+competitions	National Collegiate Cyber Defense Competition
+Tournament format	Online Rounds, In-Person National Finals Competition
+Official website	www.uscyberpatriot.org
+CyberPatriot is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or other computer science, technology, engineering, and mathematics disciplines.[1][2] The program was created by the Air Force Association (AFA).[3] It features the annual National Youth Cyber Defense Competition for high and middle school students. It is similar to its collegiate counterpart, the Collegiate Cyber Defense Competition (CCDC).
+
+CyberPatriot requires teams to assume the role of cybersecurity professionals, responsible for protecting various systems in a set amount of time. The competition consists of multiple online rounds in which teams analyze virtual machines, identify vulnerabilities, and implement security measures, answer forensics questions, and secure critical services. The Center for Infrastructure Assurance and Security (CIAS) is responsible for designing, developing, and supplying the technology and virtual machines used in CyberPatriot.[4] The competition assesses participants' cybersecurity knowledge, problem-solving abilities, and analytical thinking.[5]
+
+The National Youth Cyber Defense Competition is now in its seventeenth season and is called "CyberPatriot XVII" indicating the season's competition. CyberPatriot XVII is accessible to high schools, middle schools, and accredited homeschooling programs across the United States. JROTC units of all Services, Civil Air Patrol squadrons, and Naval Sea Cadet Corps divisions may also participate in the competition. CyberPatriot also hosts two additional sub-programs: Summer CyberCamps[6] and an Elementary School Cyber Education Initiative.[7] The Northrop Grumman Foundation is the "presenting sponsor". A British spin off program is called Cyber Centurion.
+
+History
+CyberPatriot began in 2009 as a proof-of-concept demonstration at AFA's Air Warfare Symposium in Orlando, Florida.[8] Four organizations were responsible for developing the competition: the Air Force Association, the U.S. Air Force, the defense contractor SAIC, and the Center for Infrastructure Assurance and Security (CIAS) at The University of Texas at San Antonio (UTSA). Eight high school teams from AFJROTC and Civil Air Patrol squadrons competed. The second phase of the program was limited to Air Force AFJROTC and Civil Air Patrol teams. Online training and qualification competitions were held during the fall of 2009 with nearly 200 teams from 44 states competing for eight slots in the first in-person National Finals Competition in February 2010, held in Orlando, Florida. The final phase of the developmental program, full national deployment, is now underway. Over 1,500 teams from all 50 states, Canada, and DoD Dependent schools overseas competed in CyberPatriot VI.[9] CyberPatriot VII began in October 2014, with over 2,100 teams registered to compete.[10] The Middle School Division was added in CyberPatriot V. CyberPatriot IX, which started in October 2016, featuring over 4,300 registered teams.[11] The previous national commissioner who had served in that position since 2008, General Bernie Skoch, then the long-time National Comissioner, retired in June 2021, and has been replaced by Acting National Commissioner Rachel Zimmerman, who has served in other leadership roles prior to her term as commissioner.
+
+Goals and objectives
+CyberPatriot is open to high school and middle school students, offering educational opportunities and a pathway to cybersecurity careers. The program increases the awareness of cybersecurity by delivering a basic education in a competitive format that enhances leadership, communication, and cooperation skills among its competitors.[12][13][14]
+
+Classic CyberPatriot Logo (Full-Color) (Still used today in some materials, used mainly in the past mostly, most notably on CyberPatriot website)
+The full-color version of the CyberPatriot logo. While primarily used in earlier materials, continues to appear in select current publications, including on the official CyberPatriot website.
+Team Composition
+Teams have the following members:
+
+Coach: An approved adult leader—such as a teacher, parent, or designated supervisor—who completes the team's registration and provides oversight throughout the competition period.
+Verification Official: An administrator from the participating organization who is responsible for confirming the Coach’s eligibility and approval in accordance with program requirements.
+Competitors: A group of two to six students, consisting of up to five primary competitors and one alternate, who participate in the competition and complete all assigned tasks.
+Technical Mentor (optional): A qualified adult volunteer who possesses technical expertise and supports the team’s preparation by offering guidance in cybersecurity concepts and competition-related skills.
+Team Assistant (optional): An individual who aids the Coach with administrative duties related to team management and logistics throughout the competition season.
+Each team is required to have a registered Coach, a Verification Official, and registered Competitors. Coach registration begins in the late spring to allow preparation over the summer. The qualification rounds of the competition are completed online at the teams' home locations from September to early January.[15]
+
+Competition guidelines
+The competition is a tournament structure with three divisions:
+
+Open High School Division: Open to all public, private, parochial, magnet, charter, home schools, and special groups such as CampFire, Boys & Girls Club, Boy Scouts, Church Youth Groups, Girl Scouts, etc.
+All-Service Division: Open to all JROTC Services, Civil Air Patrol squadrons, US Naval Sea Cadet Corps units. The registration fee is waived for teams competing in the All-Service Division
+Middle School Division: Open to all middle schools and junior high schools which follow the same common organizations as mentioned above in the Open High School Division.
+The early rounds of the competition are done online during weekends via the Internet from teams' schools or other sponsoring organizations' facilities. Before the round, teams download virtual images of operating systems with known flaws or cybersecurity vulnerabilities. Each team is tasked to find the flaws while keeping specified computer functions, such as email, working. Team progress is recorded by a central CyberPatriot scoring system, known as the CyberPatriot Competition System (CCS).[16]
+
+The scores from Qualification Rounds 1 and 2 are totaled to determine which tier a team advances to.
+
+Platinum: Top 30% of teams. Rounds include State, Semifinals, and National Finals.
+Gold: Middle 40% of teams. Rounds include State and Semifinals.
+Silver: Bottom 30% of teams. Rounds include State and Semifinals.
+In the Semifinals round, only the top 25% of teams and state wild cards will be eligible to compete. Only teams in the Platinum tier are eligible for the National Finals.
+
+In CyberPatriot XIII, only three rounds were held, with Round 1 delayed due to COVID-19 to allow coaches additional time for recruitment, according to announcements from the Air Force Association. Round 3 determined the National Finalists teams that year.[17]
+
+The Challenges that teams may face include:
+
+Network Security Challenge, in which teams fix vulnerabilities in "images" of Operating Systems that have been purposely tampered with, During Nationals, competitors also must protect the virtual machines(VMs) from "Red Team" which is a group of "hackers" that will exploit vulnerabilities on the competitor's machines. The Operating Systems in CP-XVII include: Windows 10, Windows 11, Windows Server 2019, Windows Server 2022, Ubuntu 22, and Mint 21.
+Cisco Networking Challenge, in which teams show their knowledge about Cisco Packet Tracer, and take a Cisco quiz.
+CyberPatriot Web-Based Challenge, in which competitors compete in a CTF-like challenge. This challenge is currently only in the Semifinals Round.
+Boeing Cyber-Physical System Challenge, in which teams are presented with an operational system that tracks and maintains flight information. This challenge is currently only in the Semifinals Round.[18][19][20]
+Additional competition rules are outlined below:
+
+The Qualification Competition begins as soon as this image is opened and ends 4 consecutive hours later, after which the score will be logged. Attempting to continue after the time limit will incur penalties. It is the coach's responsibility to ensure their team does not exceed the limit.
+Only one instance of the image can be opened at any given time. Opening multiple instances of a virtual image will result in a penalty.
+No person may compete on a team with which they are not registered, and may only be registered with one team per competition.
+During the competition, no outside assistance may be given to or received from anyone.
+No competitor may offer assistance to another after their round ends and the other begins.
+No outside communication is allowed during the competition. This includes but is not limited to verbal, electronic, written or coded.
+No offensive activity of any kind is permitted, including but not limited to hacking through programs or manual code injection, interfering with another team through social engineering, deception, and/or attaining the opposing machine.[15]
+National Finals Competition
+The highest-scoring Semifinalist teams from each division, about 28 in total, are invited to participate in the in-person National Finals Competition. This is held annually in the spring, with all travel and lodging expenses covered by the program. For CyberPatriot IV-VII, National Finals Competitions were held at the Gaylord National Resort & Convention Center in National Harbor, Maryland in March. From the CyberPatriot VIII season through the CyberPatriot XI season, the National Finals Competitions moved to the Hyatt Regency Baltimore Inner Harbor in Baltimore, Maryland, and were held in April of each year. Beginning in the CyberPatriot XII season, the National Finals Competition has been held at the Bethesda North Marriott Hotel & Conference Center in Bethesda, Maryland outside of Washington, D.C., in March. However, the CyberPatriot XII In-Person National Finals Competition, the first year planned at the Bethesda North Marriott, was canceled due to the COVID-19 outbreak, and a virtual, in-home competition was held online in May, about two months after the originally scheduled in-person competition event.[21] The CP-XII Virtual National Finals was held on May 2, 2020, and marked the first-ever online virtual CyberPatriot National Finals Competition. Due to the widespread outbreak of COVID-19, the CyberPatriot XIII season had modifications to accommodate the delay in team administration as well as provisions for additional procedures for competing at home. Due to continued COVID-19 restrictions in the United States, provisions were made to allow remote participation in the competition, and the National Finals that season, in 2021, was also held virtually, in which competitions competed fully remotely online.
+
+Winning teams in the Open and All-Service Divisions receive educational grants, which can be applied to an institution of their choosing. First place teams earn $2,000 per competitor, second place teams earn $1,500 per competitor, and third place earns $1,000 per competitor. The scholarship money is provided by the Northrop Grumman Foundation. In CyberPatriot VII, for first, second, and third place, an additional $2,000, $1,500, and $1,000 were awarded to the teams, respectively, by the National Security Agency
+
+List of CyberPatriot National Champions - THIS CONTAINS THE WINNERS
+All Service Division Winners[22]
+Year	Season	Team Name	School/Organization	City	Coach[Note 1][23]	Team Members[Note 1][23]	Refs
+2009	CyberPatriot I	Osceola High School AFJROTC	Osceola High School	Kissimmee, FL	Not Available[Note 1][23]	Not Available[Note 1][23]	Not Available
+2010	CyberPatriot II	AFJROTC Team Doolittle (Clearfield High School Air Force JROTC)[24][25][26]	Clearfield High School (Air Force JROTC) (UT-081)[25][26]	Clearfield, UT	Kit K. Workman[24][25][26][27]	Robert Estrada Jr., Adam Thurman, T.J. Boender, Jorge Lerma, Eric Takacs	[24][25][26][27]
+2011	CyberPatriot III	Team Wilson	Orlando Cadet Squadron (CAP)	Orlando, FL	Nina Harding[28]	C/SMSgt. Matt Allen, C/1st Lt. Josh Dovi, C/SMSgt. Evan Hamrick, C/SSgt. Isaac Harding, C/TSgt. Michael Hudson, C/2nd Lt. Shawn Wilson	[29][28]
+2012	CyberPatriot IV	Wolfpack	Colorado Springs Cadet Squadron	Colorado Springs, CO	Capt. Bill Blatchley	Carlin Idle, Kyal Lanum, Christopher Ottesen, John Parish, Stephen Parish, Chris Vasquez	[30]
+2013	CyberPatriot V	Marine Military Academy	Marine Military Academy	Harlingen, TX	William Beckman	Dylan Che, Drew Hopkins, Daniil Murashov, Jose Rodriguez, Kyle Rogers	[31]
+2014	CyberPatriot VI	Fearsome Falcons	Clearfield High School / UT-081	Clearfield, UT	Kit Workman	John Maxfield, Kincaid Savoie, Drex Beckman, Zach Sharkey, Shay Perkins, Nate Bertoldie	[32]
+2015	CyberPatriot VII	Marine Raiders	Montachusett Regional Vocational Technical School	Fitchburg, MA	Paul Jornet	Conner Quick, Jack Marabello, Jamison LeRoche, Leon Gaulin, Nicholas Sullivan	[33]
+2016	CyberPatriot VIII	Netrunners	Centurion Battalion	Winter Park, FL	Ken Steffey	Jacob Dawson, Nolen Johnson, Leilani Morales, Sam Precourt, Peter Steffey, Monica Vogel	[34]
+2017	CyberPatriot IX	Wolfpack	Colorado Springs Cadet Squadron	Colorado Springs, CO	Bill Blatchley	Noah Bowe, Taylor Coffey, Zach Cramer, Garrett Jackson, Isaac Stone	[35]
+2018	CyberPatriot X	Cyber Warriors 0	Troy High School (Navy JROTC)	Fullerton, CA	Allen Stubblefield	Charissa Kim, Nicole Wong, David Lee, Brandon Shin, Ha Young Kong, Silas Shen	[36]
+2019	CyberPatriot XI	Byte Sized Falcons	Scripps Ranch HS (Air Force JROTC)	San Diego, CA	Master Sergeant Ferdinand Toledo[37]	Shane Donahue, Evan Dicker, Valerie Ho, Brandon Nguyen, Alex Roh	[38]
+2020	CyberPatriot XII	TXPatriot | chmod 755 -r /srv/ftp/Anime/	Roosevelt High School (Engineering and Technologies Academy) (Army JROTC)	San Antonio, TX	Josh Beck[39]	Fardeen Bhimani, Frieda Farias, Tristan Lee, Harrison Lewis, Jacob Rahimi	[40][41][42][39]
+2021	CyberPatriot XIII	Runtime Terror	Troy High School (Navy JROTC)	Fullerton, CA	John-Michael Linares[43]	Taiyu Chen, Chan Chung, Justin Huang, Brian Ni, Johnny Ni, Anna Wu	[44][43]
+2022	CyberPatriot XIV	The Terabyte Falcons	Scripps Ranch HS (Air Force JROTC)	San Diego, CA	Ferdinand Toledo[45]	Saatvik Aggarwal, Jake Lee, Leopold Li, Nathan Min, Mikella Nuzen	[46][45]
+2023	CyberPatriot XV	Runtime Terror	Troy High School (Navy JROTC)	Fullerton, CA	John-Michael Linares[47]	Brian Ni, Chan Chung, Johnny Ni, Aaron Shan, Anna Wu, Victoria Yang	[48][47]
+2024	CyberPatriot XVI	W.A.T.T.	Troy High School (Navy JROTC)	Fullerton, CA	Allen Stubblefield[49]	Michael Xiong, Jacky Feng, Alex Wang, Craig Wu, Liwei Xia, Jacob Yu	[50][49]
+2025	CyberPatriot XVII	Terabyte Falcons	Scripps Ranch High School (Air Force JROTC)	San Diego, CA	Mark McLouth[51]	Audrey Li, Veer Chopra, Aarav Maheshwari, Rithvik Manikandan, Arush Sastry, Delbert Tran	[52][51]
+Open Division Winners[22]
+Year	Season	Team Name	School/Organization	City	Coach[Note 1][23]	Team Members[Note 1][23]	Refs
+2009	CyberPatriot I	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]
+2010	CyberPatriot II	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]	N/A[Note 2][22]
+2011	CyberPatriot III	Team Mantrap[28]	Red Bank Regional High School	Little Silver, NJ	Amanda “Mandy” Galante[28]	Chris Barry, Adam Cotenoff, Josh Eddy, Jared Katzman, Jack Kelleher, Colin Mahns	[53][28]
+2012	CyberPatriot IV	Alamo Academies	Alamo Academies	San Antonio, TX	Mike Matuszek	Theodore Belitsos II, Kenny Bias, Brian Carvan, Robert Flores, Mario Puente III, Tommy Roberts	[54]
+2013	CyberPatriot V	Chantilly Academy	Chantilly Academy	Chantilly, VA	Joan Ozdogan	Anirudh Bagde, Weyland Chiang, Chris Kim, Brian Nguyen, Timothy A. Rothschild	[55]
+2014	CyberPatriot VI	Azure	North Hollywood High School	North Hollywood, CA	Jay Gehringer	Travis Raser, Jake King, Issac Kim, Henry Birge-Lee, Isaac Kim	[56]
+2015	CyberPatriot VII	CyberSloths	Grissom High School	Huntsville, AL	Chris Sutton	James Brahm, Morgan Wagner, Jeramy Lochner, Matthew Rogers, Michelle Driessnack, Christopher Lin	[57]
+2016	CyberPatriot VIII	Team Sudo	Summit Technology Academy	Lee's Summit, MO	Lisa Oyler	Jack Bliss, Zane Brown, Christian Durst, Isaac McGee, Justin Nitz, Tyler Waits	[34][58]
+2017	CyberPatriot IX	Togo	North Hollywood High School	North Hollywood, CA	Jay Gehringer	Aled Cuda, Kyle Gusdorf, Jonathan Liu, Jaren Mendelsohn, Nikola Pratte	[59]
+2018	CyberPatriot X	Togo	North Hollywood High School	North Hollywood, CA	Jay Gehringer	Jonathan Liu, Aled Cuda, Nikola Pratte, Kyle Gusdorf, Jaren Mendelsohn, Sophia Hewitt	[60]
+2019	CyberPatriot XI	Troy Tech Support	Troy High School	Fullerton, CA	Allen Stubblefield[61][62]	Christo Bakis, Clement Chan, Timothy Kim, Jimmy Li, Rahil Shah, Joseph Xu	[38]
+2020	CyberPatriot XII	CyberAegis Strange Quark II	Del Norte High School	San Diego, CA	Paul Johnson[39]	Eric Chen, Phoenix Dimagiba, Lucy Gao, Darshan Parekh, Pranav Patil, Andrew Wang	[63][40][41][42][39][64]
+2021	CyberPatriot XIII	CyberAegis Cobalt	Del Norte High School	San Diego, CA	Paul Johnson[43]	Rohan Juneja, Akshay Rohatgi, Tanay Shah, Safin Singh, Ellen Xu, Alvin Zheng	[63][43]
+2022	CyberPatriot XIV	CyberAegis Flashpoint	Del Norte High School	San Diego, CA	Paul Johnson[45]	Rohan Juneja, Akshay Rohatgi, Tanay Shah, Safin Singh, Ethan Zhao, Alvin Zheng	[65][45]
+2023	CyberPatriot XV	CyberAegis Tempest	Del Norte High School	San Diego, CA	Paul Johnson[47]	Akshay Rohatgi, Alex Jiang, Rohan Juneja, Safin Singh, Ethan Zhao, Alvin Zheng	[66][47]
+2024	CyberPatriot XVI	Half Dome	Franklin High School	Elk Grove, CA	Chris Shuping[49]	Pratham Rangwala, Eriko Akanuma, Joshua Fong, Ethan Ho, Matthew Ho, Priyam Rangwala	[67][49]
+2025	CyberPatriot XVII	CyberAegis Phoenix	Scouting America (San Diego-Imperial Council) Exploring Post 2928[Note 3]	San Diego, CA	Paul Johnson[51]	Ethan Zhao, Srijan Atti, Will Cheng, Advik Garg, Yash Parikh, Virginia Zhu	[52][51]
+Middle School Division Winners[22]
+Year	Season	Team Name	School/Organization	City	Coach[Note 1][23]	Team Members[Note 1][23]	Refs
+2009	CyberPatriot I	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]
+2010	CyberPatriot II	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]
+2011	CyberPatriot III	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]
+2012	CyberPatriot IV	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]
+2013	CyberPatriot V	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]	N/A[Note 4][22]
+2014	CyberPatriot VI	Cyber Knights	Beach Cities Cadet Squadron (107 Knights)	San Pedro, CA	Mark Williams	Harmont Grenier, Amy Ross, Alfredo Corrales, Steve Velazco, Roberto Munoz, Alejandro Munoz	[68]
+2015	CyberPatriot VII	Team 1	Nysmith School for the Gifted	Herndon, VA	Bonnie McCrystal	William Tan, Ryan McCrystal, Monica Saraf, Aryaan Hussain, Bhavjeet Sanghera	[69]
+2016	CyberPatriot VIII	CyberFalcon Millennium 360	Oak Valley Middle School	San Diego, CA	Paul Johnson	Eric Chen, Arushi Dogra, Lucy Gao, Pranav Patil, Andrew Wang	[34][70][71]
+2017	CyberPatriot IX	Error 37	Summit Lakes Middle School	Lees Summit, MO	Teri Curp	Connor Bichsel, Tommy Cueeze, Keenan Curp, Jonah Ludiker, Ethan McFarland, Mason Sipe	[72]
+2018	CyberPatriot X	CyberAegis Cancer Minor	Oak Valley Middle School	San Diego, CA	Paul Johnson	Kevin Hu, Bryant Jin, Devam Shrivastava, Gautam Gupta, Jeffrey Sheng, Jonathan Lin	[63]
+2019	CyberPatriot XI	CyberAegis Chaos	Oak Valley Middle School	San Diego, CA	Paul Johnson[73][74]	Akshay Rohatgi, Aadit Gupta, Akhil Guntur, Alex Jiang, Alvin Zheng, Jonathan Lin	[63]
+2020	CyberPatriot XII	CyberAegis Polariton	Design 39 Campus	San Diego, CA	Sheirman Szeto[39]	Aarav Arora, Brandon Chong, Rachit Jaiswal, Rohan Juneja, Safin Singh, Vardaan Sinha	[63][40][41][42][39][64]
+2021	CyberPatriot XIII	CyberAegis Technetium	Oak Valley Middle School	San Diego, CA	Paul Johnson[43]	Brandon Chu, Eshaan Kumar, Raymond Sheng, Sophia Tang, Kate Xu, Ethan Zhao	[63][43]
+2022	CyberPatriot XIV	CyberAegis Cobra	Design 39 Campus	San Diego, CA	Sheirman Szeto[45]	Srijan Atti, Neil Chandra, Aditya Desai, Risha Guha, Krish Nandola, Yash Parikh	[75][45]
+2023	CyberPatriot XV	CyberAegis Vitalis	Design 39 Campus	San Diego, CA	Sheirman Szeto[47]	Yash Parikh, Neil Chandra, Risha Guha, Ansh Kumar, Krish Nandola, Anvay Vahia	[76][47]
+2024	CyberPatriot XVI	CyberAegis Callisto	Oak Valley Middle School	San Diego, CA	Paul Johnson[49]	Dhyan Soni, Ethan Jin, Ronith Kumar, Ishan Shrivastava, Evyn Zhao, Virginia Zhu	[77][49]
+2025	CyberPatriot XVII	CyberAegis Odyssey	Scouting America (San Diego-Imperial Council) Exploring Club 2927[Note 3]	San Diego, CA	Paul Johnson[51]	Evyn Zhao, Arya Bhatt, Samarth Hande, Siddharth Hota, Pranay Kamath, Adya Shipekar	[52][51]
+See also
+List of computer science awards
+Notes
+ Unless otherwise cited, information is sourced from the CyberSentinel, AFA's CyberPatriot newsletter. Team and coach details are primarily taken from the National Finals (Special) Editions, which may or may not be specially labeled, typically released before the National Finals Competition, often in March or April, usually depending on the exact dates and timing of the National Finals Competition event, or from the official National Finals Program Publication for each season. For CP-XII 2020 and future seasons, the National Finals edition of The CyberSentinel may be unavailable or may omit coach and team member names. In such cases, names are sourced from the National Finals Program, if available. The winning team is verified using official sources such as AFA press releases, subsequent newsletter issues, or the Competition History pages listing winners by division. After the official release of results, the verified winning team is matched to listings in the pre-competition publications to identify the coach and team members. It is important to note that the oldest issue of the CyberSentinel dates back to January 2012, during the CyberPatriot IV (2011-2012) Season before the National Finals Competition, and thus information from earlier seasons is not available from The CyberSentinel. Team members are listed in the order as it appears on the CyberSentinel or an available external source. The National Finals CyberSentinel for the CyberPatriot XI (2018-2019) season for the 2019 National Finals Competition did not list coaches for the teams.
+Important Note Regarding the CyberPatriot XII (2019-2020) and Onward Seasons: The in-person CyberPatriot XII (2020) National Finals Competition was canceled due to the COVID-19 Pandemic and was shifted to an online competition. Thus, the National Finals CyberSentinel for this season is not available or has been removed. However, the National Finals Program brochure magazine was prepared before the cancelation and was still distributed digitally and physically before, during, and after the rescheduled virtual competition event. Consequently, team information for that season have been obtained from the above-mentioned official AFA CyberPatriot XII 2020 National Finals Competition Program publication, which is available the link here. For CyberPatriot XIII (2020–2021) and following seasons, including both during the continuation of virtual National Finals and after the resumption of regular in-person National Finals Competition events in 2022 (CP-XIV), regular CyberSentinel publication resumed, but did not list team details, including coaches and team members. Therefor, this information was obtained from the corresponding National Finals Program (which was also published for the CyberPatriot-XIII (2020-2021) 2021 Virtual National Finals Competition event) instead starting from the CyberPatriot XII (2019-2020) season and onward. The National Finals program is typically published every season before the National Finals competition event but the information of the champion teams is retrieved from and verified against it post-event, after the champions have been announced and confirmed.
+ Open Division (Non-Service Affiliated) teams were introduced in 2010. The first season with Open Division was CyberPatriot III (2010-2011).
+ Poway Unified School District (PUSD/Poway USD), Oak Valley Middle School (OVMS), Del Norte High School (DNHS), Design39Campus (D39C), and/or any combination of the above-listed entities, district and/or school(s) all are under PUSD, did not allow the CyberAegis team to continue to be affiliated with them after the CyberPatriot XVI (2023-2024) season and effective before or at the start of the CyberPatriot XVII (2024-2025) season; so a switch was made to be affiliated and categorized under Scouting America (under its San Diego-Imperial Council)'s Exploring Program as Post 2928 (for High School/Open Division) and Club 2927 and Club 2929 (for Middle School. This is a change in name/affiliation, and thus the team members are still predominately from the above-named schools and area, and the membership and the membership, including coaches, mentors, helpers, organizers, assistants, other people involved, the organization/club/program structure, and the student body, is unchanged
+ Middle school teams with their own competition division were introduced in 2013. The first season with Middle School Division was CyberPatriot VI (2013-2014)
+End of CyberPatriot Wikipedia----------------------------------------------------------------------
+Start of CyberPatriot 18 competition schedule ---------------------------------------------------------------
+CyberPatriot 18 (2025-2026) Competition Schedule
+​​​
+
+
+​​
+​​​TRAINING EVENTS ​
+EVENT
+DATES AND TIMES (EASTERN TIME)
+(Dates are subject to change.)
+DESCRIPTION
+Exhibition Round
+(Recruiting and Practice)
+May 16 - August 25, 2025
+Start: May 16 @ 9:00 AM ET 
+End: August 25 @ 11:59 PM ET
+
+*Images and download instructions are emailed to coaches of registered teams by​ 5:00 PM ET the day before round start date. 
+Practice and Recruiting. All teams may participate. Only Coaches must be registered.
+Training Round 1
+(Basic-Level Images)
+September 4 - October 22, 2025
+Start: September 4 @ 9:00 AM ET 
+End: October 22 @ 11:59 PM ET
+
+*Images and download instructions are emailed to coaches of registered teams by​ 5:00 PM ET the day before round start date. 
+Answer keys are available in the ReadMe file. All teams may participate. Only Coaches must be registered.
+Sneak Preview
+(Optional Test)
+TBD
+ (1 Day Only)
+Start: 9:00 AM ET​
+End: 9​:00 PM ET
+Practice/Test New Software
+One Day - No Alternate Dates 
+
+Scores do not count toward competition.​
+
+All teams may participate. Only Coaches must be registered.
+​Practice Round
+(Critical)
+October 6 - October 20, 2025​
+Start: October 6 @ 9:00 AM ET 
+End: October 20 @ 11:59 PM ET
+
+*Images and download instructions are emailed to coaches of registered teams by​ 5:00 PM ET the day before round start date. ​
+​The software is updated, and teams must test at least one image to ensure no problems accessing the images for the competition. Re-release of training images with answer keys available.
+
+Scores do not count toward competition.
+
+All teams may participate. Only Coaches must be registered.
+​Training Round 2
+(Intermediate-Level Images)
+Oct 28, 2025 - Jan 20, 2026​
+Start: October 28 @ 9:00 AM ET 
+End: January 20 @ 11:59 PM ET
+
+*Images and download instructions are emailed to coaches of registered teams by​ 5:00 PM ET the day before round start date. ​
+​Training images with answer keys are available in the ReadMe file.
+
+
+
+Competition Dates and times 
+NEW: all​ competition periods will be four hours LONG.
+
+(dates are Tentative - May be subject to change)
+
+Teams may compete during the following times on competition weekends. All times are US Eastern Time.​
+
+​Thursday, 9:00 AM - 10:00 PM ET
+Friday, 9:00 AM - 11:59 PM ET
+Saturday, 8:00 AM - 11:59 PM ET
+Sunday, 10:00 AM - 8:00 PM ET
+Please refer to Chapter 4 of the CYBERPATRIOT RULES BOOK for procedures concerning severe weather and emergencies.
+(NOTE: Scheduling conflicts are not considered emergencies)
+
+ROUND
+Dates
+Description
+Round 1
+(All Open and All Service Division teams pa​rticipate)	
+October 23 - 26, 2025
+
+5:00 PM ET Monday prior to competition round - Image download instructions and links sent to Coaches. ​
+9:00 AM ET 1st day of Round - StartEx email with the password to the images is sent to teams
+Tests basics of cybersecurity skills.
+
+Note: Image answers will be released after the round is completed.​​
+
+Round 2
+Open and All Service Divisions ​
+​(All teams participate - even if they did not compete in Round 1)
+
+Introductory Round
+Middle School Division
+(This is the 1st competition round for middle school teams)
+
+November 13 - 16, 2025​
+
+5:00 PM ET Monday before competition round - Image download instructions and links sent to Coaches. 
+9:00 AM ET 1st day of Round - StartEx email with the password to the images is sent to teams​
+More difficult for high school teams than Round 1. The results allow teams to be divided into skill-level tiers for the State Round.
+
+Note: Image answers will be released after the round is completed.​​
+
+
+
+
+The Introductory Round tests the basics of cybersecurity skills.
+Note: Image answers will be released after the round is completed.
+State Round
+(All teams participate. Open and All Service Division teams have a clean slate)	December 11 - 14, 2025​
+
+5:00 PM ET Monday prior to competition round - Image download instructions and links sent to Coaches. 
+9:00 AM ET 1st day of Round - StartEx email with the password to the images is sent to teams
+Past performance or participation in High School Rounds 1 and 2 do not count toward placement. Teams compete against other teams based on skill level for State Awards and Tier Awards.
+​Semifinals
+(Only teams that qualify can participate)	January 22 - 24, 2026​
+(3 Days only)
+
+5:00 PM ET Monday before competition round - Image download instructions and links sent to Coaches. 
+9:00 AM ET 1st day of Round - StartEx email with the password to the images is sent to teams​	​
+National Finals
+
+March 20 - 24, 2026​
+
+National Finalist teams compete for the National Championship in their respective divisions.
+​​​​
+End of CyberPatriot 18 Schedule -----------------------------------------------------------------------------
+Please note that 2025-26, this year, is CyberPatriot 18.
+CyberPatriot has received many questions concerning the use of ChatGPT and other AI platforms
+in the competition. There are no new rules limiting their use. However, the Rules Book applies to
+ChatGPT and other AI platforms since they are a resource (see section 3012 | Allowable
+Resources). Specifically, teams may not put questions from the competition into AI platforms.
